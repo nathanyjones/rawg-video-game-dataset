@@ -1,0 +1,1001 @@
+name,primary_genre,rating,ratings_count,release_year,metacritic,playtime,genre_count,game_type,platform_count,pc,console,mobile,esrb_rating
+The Witcher 3 Wild Hunt - Complete Edition,Adventure,4.8,794,2016,92.0,0,2,None,6,True,True,False,Mature
+Persona 5 Royal,Adventure,4.75,527,2020,94.0,12,2,Singleplayer,6,True,True,False,Mature
+The Last of Us Part I,Shooter,4.67,548,2022,,13,3,Both,2,True,True,False,Mature
+Disco Elysium: Final Cut,Adventure,4.66,655,2021,90.0,5,2,None,8,True,True,True,
+The Witcher 3: Wild Hunt,Action,4.64,7159,2015,92.0,43,2,Singleplayer,7,True,True,False,Mature
+Red Dead Redemption 2,Action,4.59,5463,2018,96.0,21,1,Both,3,True,True,False,Mature
+Resident Evil 4,Adventure,4.58,597,2023,,24,2,Singleplayer,5,True,True,True,Mature
+Mass Effect: Legendary Edition,Shooter,4.57,577,2021,88.0,12,4,Singleplayer,5,True,True,False,Mature
+God of War (2018),Action,4.54,5137,2018,94.0,15,1,Singleplayer,2,True,True,False,Mature
+Divinity: Original Sin 2 - Definitive Edition,RPG,4.51,591,2018,94.0,10,1,None,6,True,True,True,Mature
+Resident Evil 2,Adventure,4.5,2260,2019,91.0,11,2,None,6,True,True,False,Mature
+BioShock: The Collection,Shooter,4.49,220,2016,83.0,0,2,None,4,True,True,False,Mature
+Uncharted 4: A Thief’s End,Shooter,4.48,3729,2016,93.0,0,2,None,2,False,True,False,Teen
+Marvel's Spider-Man Remastered,Casual,4.47,448,2020,,13,3,Singleplayer,2,True,True,False,Teen
+The Legend of Zelda: Breath of the Wild,Adventure,4.47,3178,2017,97.0,121,3,None,2,False,True,False,Everyone 10+
+It Takes Two,Platformer,4.47,1717,2021,88.0,10,3,Multiplayer,6,True,True,False,Everyone 10+
+Dark Souls: Remastered,Action,4.47,1462,2018,84.0,15,2,Both,4,True,True,False,
+Uncharted: Legacy of Thieves Collection,Adventure,4.46,511,2022,,7,2,Singleplayer,2,True,True,False,Teen
+Mario Kart 8 Deluxe,Racing,4.45,905,2017,92.0,0,1,Multiplayer,1,False,True,False,Everyone
+Marvel's Spider-Man,Action,4.45,3699,2018,87.0,6,1,Singleplayer,3,True,True,False,Teen
+The Elder Scrolls V: Skyrim Special Edition,Action,4.45,1970,2016,74.0,9,2,Singleplayer,3,True,True,False,Mature
+God of War: Ragnarök,Action,4.43,759,2022,,0,1,Singleplayer,3,True,True,False,Mature
+Baldur's Gate III,Strategy,4.43,1000,2023,97.0,20,3,Both,4,True,True,False,Mature
+Super Mario Odyssey,Platformer,4.42,1921,2017,97.0,0,2,Singleplayer,1,False,True,False,Everyone 10+
+Ori and the Will of the Wisps,Platformer,4.42,1303,2020,91.0,11,3,Singleplayer,4,True,True,False,Everyone
+The Last of Us Part II,Shooter,4.42,1988,2020,93.0,0,3,Singleplayer,2,False,True,False,Mature
+Hades,Indie,4.42,2076,2020,93.0,10,4,Singleplayer,6,True,True,False,Teen
+Ori and the Blind Forest: Definitive Edition,Platformer,4.42,1718,2016,88.0,6,2,Singleplayer,4,True,True,False,Everyone
+Ghost of Tsushima,Adventure,4.41,1134,2020,83.0,0,3,Singleplayer,3,True,True,False,Mature
+Dark Souls III,Action,4.4,2770,2016,89.0,29,2,Both,3,True,True,False,Mature
+Yakuza 6: The Song of Life,Shooter,4.4,212,2016,84.0,11,3,Singleplayer,3,True,True,False,Mature
+Hollow Knight,Platformer,4.4,2723,2017,88.0,7,3,Singleplayer,6,True,True,False,Everyone 10+
+Bloodborne,Action,4.4,2451,2015,92.0,12,2,None,1,False,True,False,Mature
+Resident Evil: Village,Adventure,4.39,1033,2021,83.0,15,2,Both,7,True,True,True,
+Elden Ring,Action,4.39,1446,2022,95.0,62,2,Both,5,True,True,False,Mature
+Katana ZERO,Platformer,4.39,1137,2019,83.0,5,3,Singleplayer,4,True,True,False,
+Ratchet & Clank: Rift Apart,Adventure,4.39,414,2021,88.0,13,2,Singleplayer,2,True,True,False,Everyone 10+
+Dishonored Definitive Edition,Adventure,4.39,530,2015,78.0,0,2,Singleplayer,3,True,True,False,Mature
+Stardew Valley,Indie,4.39,2448,2016,89.0,13,3,Both,9,True,True,True,Everyone 10+
+Baba Is You,Indie,4.39,534,2019,86.0,3,2,Singleplayer,6,True,True,True,
+DOOM (2016),Shooter,4.38,3624,2016,85.0,10,2,Both,4,True,True,False,Mature
+What Remains of Edith Finch,Indie,4.38,2032,2017,89.0,3,2,Singleplayer,5,True,True,True,Teen
+Inscryption,Indie,4.38,592,2021,86.0,8,3,Singleplayer,6,True,True,False,
+The Legend of Zelda: Tears of the Kingdom,Adventure,4.38,481,2023,96.0,0,2,Singleplayer,1,False,True,False,Everyone 10+
+NieR Replicant v1.22474487139...,Adventure,4.38,263,2021,82.0,16,3,Singleplayer,3,True,True,False,Mature
+Sekiro: Shadows Die Twice,Action,4.38,2110,2019,90.0,16,2,Singleplayer,3,True,True,False,Mature
+INSIDE,Adventure,4.38,2581,2016,87.0,4,5,Singleplayer,6,True,True,True,Teen
+Divinity: Original Sin 2,Strategy,4.38,1665,2017,95.0,22,2,Both,4,True,True,False,Mature
+DOOM Eternal,Shooter,4.37,1422,2020,86.0,12,2,Both,5,True,True,False,Mature
+Little Nightmares II,Platformer,4.37,557,2021,82.0,6,3,Singleplayer,6,True,True,False,Teen
+Ori and the Blind Forest,Platformer,4.37,1530,2015,88.0,6,2,Singleplayer,3,True,True,False,Everyone
+Super Smash Bros. Ultimate,Fighting,4.37,1082,2018,93.0,0,1,Multiplayer,1,False,True,False,
+Planescape: Torment: Enhanced Edition,Strategy,4.37,279,2017,85.0,4,3,Singleplayer,8,True,True,True,Teen
+VA-11 Hall-A: Cyberpunk Bartender Action,Adventure,4.37,441,2016,81.0,5,2,Singleplayer,6,True,True,False,Mature
+Forza Horizon 4,Racing,4.37,1649,2018,90.0,13,2,Both,3,True,True,False,Everyone
+Cuphead,Platformer,4.37,2033,2017,87.0,6,3,Singleplayer,5,True,True,False,
+Celeste,Platformer,4.37,1696,2018,91.0,6,2,Singleplayer,6,True,True,False,Everyone 10+
+Forza Horizon 3,Racing,4.37,605,2016,88.0,0,2,Both,2,True,True,False,Everyone
+SUPERHOT VR,Shooter,4.37,418,2017,85.0,2,4,Singleplayer,2,True,True,False,Everyone
+Slay the Spire,Card,4.37,1075,2019,86.0,12,4,Singleplayer,8,True,True,True,
+Final Fantasy VII,Adventure,4.37,819,2020,87.0,0,3,Singleplayer,3,True,True,False,Teen
+Psychonauts 2,Platformer,4.37,393,2021,88.0,11,3,Singleplayer,6,True,True,False,Teen
+Yakuza Kiwami 2,Adventure,4.37,406,2017,85.0,10,3,Singleplayer,3,True,True,False,Mature
+Disco Elysium,Indie,4.37,1333,2019,91.0,6,3,Singleplayer,7,True,True,False,Mature
+NieR:Automata,Action,4.37,2161,2017,86.0,13,2,Singleplayer,4,True,True,False,Mature
+RimWorld,Strategy,4.36,617,2016,87.0,19,3,Singleplayer,3,True,False,False,
+A Short Hike,Indie,4.36,465,2019,84.0,2,2,Singleplayer,5,True,True,False,Everyone
+Outer Wilds,Indie,4.36,882,2019,84.0,4,3,None,4,True,True,False,Everyone 10+
+The Stanley Parable: Ultra Deluxe,Casual,4.36,366,2022,90.0,4,3,Singleplayer,8,True,True,False,
+Dead Space,Adventure,4.36,342,2023,,4,2,Singleplayer,3,True,True,False,
+The Beginner's Guide,Indie,4.36,468,2015,,2,2,Singleplayer,3,True,False,False,
+Factorio,Casual,4.36,802,2020,83.0,20,4,Both,4,True,True,False,
+Beat Saber,Indie,4.36,630,2019,90.0,7,2,Singleplayer,3,True,True,False,Teen
+The Legend of Zelda: Link's Awakening (2019),Adventure,4.36,524,2019,87.0,0,3,Singleplayer,1,False,True,False,Everyone
+Neon White,Indie,4.36,241,2022,88.0,7,4,Singleplayer,4,True,True,False,Teen
+Yakuza 0,Action,4.36,1137,2015,85.0,8,2,Both,4,True,True,False,Mature
+Astro's Playroom,Platformer,4.36,571,2020,83.0,0,2,None,1,False,True,False,Everyone 10+
+Half-Life: Alyx,Shooter,4.36,505,2020,93.0,5,3,Singleplayer,1,True,False,False,Mature
+Undertale,Indie,4.35,1884,2015,92.0,5,2,Singleplayer,8,True,True,False,Everyone 10+
+Black Mesa,Shooter,4.35,1075,2020,86.0,6,3,Both,2,True,False,False,
+Hollow Knight: Silksong,Indie,4.35,216,2025,,24,4,Singleplayer,8,True,True,False,
+Marvel's Spider-Man 2,Adventure,4.35,320,2023,,26,2,Both,2,True,True,False,Teen
+Yakuza: Like a Dragon,Adventure,4.35,370,2020,85.0,17,3,Singleplayer,5,True,True,False,
+Gorogoa,Casual,4.35,413,2017,,2,4,Singleplayer,7,True,True,True,
+Desperados III,Strategy,4.34,217,2020,84.0,5,2,Singleplayer,4,True,True,False,Mature
+Detroit: Become Human,Adventure,4.34,3313,2018,79.0,10,2,Singleplayer,2,True,True,False,Mature
+Total War: WARHAMMER II,Strategy,4.34,249,2017,86.0,14,2,Both,3,True,False,False,
+Persona 5,Adventure,4.34,1440,2016,93.0,105,3,Singleplayer,2,False,True,False,Mature
+Alan Wake 2,Action,4.33,428,2023,,0,1,None,3,True,True,False,Mature
+Finding Paradise,Indie,4.33,247,2017,,5,3,Singleplayer,4,True,False,True,Everyone 10+
+Resident Evil 7: Biohazard,Shooter,4.33,1977,2017,85.0,10,3,Both,5,True,True,False,Mature
+Return Of The Obra Dinn,Indie,4.33,758,2018,88.0,5,2,Singleplayer,5,True,True,False,Mature
+Resident Evil HD Remaster,Adventure,4.33,557,2015,82.0,4,2,Singleplayer,6,True,True,False,Mature
+Tentacle Locker,Indie,4.32,581,2018,,0,2,None,3,True,False,True,Adults Only
+Shadow of the Colossus  (2018),Adventure,4.32,600,2018,91.0,0,2,Singleplayer,1,False,True,False,Teen
+Hi-Fi Rush,Adventure,4.32,354,2023,,4,2,Singleplayer,3,True,True,False,Teen
+Crusader Kings III,Strategy,4.32,460,2020,86.0,12,3,Both,5,True,True,False,
+Into the Breach,Strategy,4.31,801,2018,90.0,5,3,Singleplayer,4,True,True,True,Everyone 10+
+Titanfall 2,Shooter,4.31,2067,2016,87.0,5,2,Both,3,True,True,False,Mature
+Death Stranding,Adventure,4.31,2099,2019,84.0,11,2,Singleplayer,2,True,True,False,Mature
+A Hat in Time,Platformer,4.31,506,2017,77.0,6,2,Singleplayer,5,True,True,False,Teen
+Control Ultimate Edition,Shooter,4.31,352,2020,82.0,2,3,Singleplayer,6,True,True,False,Mature
+DRAGON QUEST XI: Echoes of an Elusive Age,RPG,4.31,375,2017,91.0,15,1,Singleplayer,5,True,True,False,Teen
+DUSK,Indie,4.3,227,2018,,3,2,Singleplayer,2,True,True,False,
+Animal Crossing: New Horizons,Simulation,4.3,770,2020,90.0,0,1,Singleplayer,1,False,True,False,Everyone
+Firewatch,Indie,4.3,2498,2016,81.0,5,2,None,6,True,True,False,Mature
+Fran Bow,Indie,4.29,249,2015,70.0,7,2,Singleplayer,3,True,False,False,
+The Messenger,Adventure,4.29,333,2018,84.0,6,5,None,4,True,True,False,Everyone 10+
+Forza Horizon 5,Racing,4.29,765,2021,,15,2,Both,5,True,True,True,Everyone
+Tony Hawk's Pro Skater 1 + 2,Arcade,4.29,233,2020,88.0,2,2,Both,6,True,True,False,Teen
+Satisfactory,Indie,4.29,341,2024,,12,4,Both,1,True,False,False,Rating Pending
+Marvel's Guardians of the Galaxy,Shooter,4.29,897,2021,,10,3,Singleplayer,6,True,True,False,Teen
+Age of Empires II: Definitive Edition,Strategy,4.29,304,2019,85.0,5,1,Singleplayer,2,True,True,False,
+A Plague Tale: Requiem,Adventure,4.28,483,2022,,5,2,Singleplayer,6,True,True,False,Mature
+Death Stranding Director's Cut,Adventure,4.28,280,2021,,5,2,Both,4,True,True,True,Mature
+Horizon Zero Dawn,Action,4.28,3770,2017,89.0,11,2,Singleplayer,2,True,True,False,Teen
+Prey,Shooter,4.28,2241,2017,80.0,10,3,Singleplayer,3,True,True,False,Mature
+Hotline Miami 2: Wrong Number,Indie,4.28,1330,2015,72.0,7,4,Singleplayer,9,True,True,True,Mature
+Uncharted: The Lost Legacy,Adventure,4.27,1272,2017,85.0,0,2,None,2,False,True,False,Teen
+Horizon Zero Dawn Complete Edition,Adventure,4.27,336,2017,84.0,13,3,Singleplayer,2,True,True,False,Teen
+CrossCode,Action,4.27,141,2015,82.0,5,3,Singleplayer,6,True,True,False,Teen
+Dishonored 2,Action,4.26,2023,2016,86.0,12,2,Singleplayer,3,True,True,False,Mature
+Danganronpa V3: Killing Harmony,Puzzle,4.26,236,2017,80.0,19,1,Singleplayer,4,True,True,False,Mature
+Hitman 3,Shooter,4.25,367,2021,83.0,6,3,Singleplayer,6,True,True,False,Mature
+Marvel's Spider-Man: Miles Morales,Action,4.25,944,2020,86.0,9,1,Both,3,True,True,False,Teen
+Night in the Woods,Adventure,4.25,671,2017,88.0,6,1,Singleplayer,7,True,True,True,Teen
+Devil May Cry 5,Action,4.25,1540,2019,88.0,9,1,Singleplayer,4,True,True,False,Mature
+Divinity: Original Sin - Enhanced Edition,Indie,4.25,1027,2015,94.0,8,2,Both,5,True,True,False,Mature
+Subnautica,Indie,4.25,1471,2018,83.0,10,2,Both,7,True,True,False,Everyone 10+
+Pathfinder: Wrath of the Righteous,RPG,4.24,137,2021,81.0,10,1,Singleplayer,5,True,True,False,
+Batman: Arkham Knight,Action,4.24,2683,2015,81.0,19,1,Singleplayer,4,True,True,False,Mature
+The Forgotten City,Indie,4.24,253,2021,,7,4,Singleplayer,6,True,True,False,Teen
+Mafia: Definitive Edition,Shooter,4.24,1115,2020,78.0,10,2,Singleplayer,4,True,True,False,Mature
+BioShock Remastered,Shooter,4.24,1420,2016,,4,1,Singleplayer,5,True,True,False,Mature
+Mount & Blade II: Bannerlord,Strategy,4.24,299,2022,78.0,20,4,Both,5,True,True,False,Mature
+Cyberpunk 2077,Shooter,4.23,2985,2020,73.0,29,3,Singleplayer,6,True,True,False,Mature
+Final Fantasy XII: The Zodiac Age,RPG,4.23,231,2017,87.0,8,1,Singleplayer,4,True,True,False,Teen
+Heroes of Might & Magic III - HD Edition,Strategy,4.23,328,2015,65.0,4,1,Both,2,True,False,True,
+Dead Cells,Platformer,4.23,1735,2018,88.0,10,4,Singleplayer,7,True,True,True,Teen
+Tetris Effect: Connected,Casual,4.22,259,2020,90.0,3,3,Both,5,True,True,False,Everyone
+Hellblade: Senua's Sacrifice,Indie,4.22,2301,2017,83.0,6,3,Singleplayer,4,True,True,False,Mature
+Monster Hunter Rise,Action,4.22,178,2021,87.0,15,2,Both,6,True,True,False,
+The Jackbox Party Pack 3,Casual,4.21,293,2016,81.0,5,3,Both,5,True,True,False,Teen
+Star Wars Jedi: Survivor,Adventure,4.21,269,2023,,18,2,Singleplayer,3,True,True,False,Teen
+The Banner Saga 2,Strategy,4.2,351,2016,82.0,6,3,Singleplayer,7,True,True,True,
+Devil May Cry 4: Special Edition,Action,4.2,564,2015,,9,1,Singleplayer,3,True,True,False,Mature
+Duck Game,Indie,4.2,313,2015,82.0,5,2,Both,3,True,True,False,
+Gris,Indie,4.2,1075,2018,83.0,3,4,Singleplayer,9,True,True,True,Everyone
+The Red Strings Club,Indie,4.2,294,2018,80.0,4,2,Singleplayer,4,True,True,False,
+Neighbours back From Hell,Adventure,4.2,226,2020,66.0,3,5,Singleplayer,4,True,True,True,Teen
+Keep Talking and Nobody Explodes,Indie,4.2,417,2015,67.0,3,3,Both,6,True,True,True,Everyone 10+
+Horizon Forbidden West,Adventure,4.2,471,2022,86.0,0,3,Singleplayer,3,True,True,False,Teen
+FAR: Lone Sails,Indie,4.19,328,2018,84.0,3,4,Singleplayer,6,True,True,True,
+Vampire Survivors,Casual,4.19,787,2022,,11,4,Singleplayer,6,True,True,True,
+Opus Magnum,Indie,4.19,130,2017,,3,3,Singleplayer,3,True,False,False,
+Frostpunk,Strategy,4.19,1060,2018,85.0,6,2,Singleplayer,4,True,True,False,Mature
+SUPERHOT,Shooter,4.19,1542,2016,82.0,4,3,Both,7,True,True,False,Teen
+The Walking Dead: The Final Season,Adventure,4.18,460,2018,78.0,10,2,Both,4,True,True,False,Mature
+Tales from the Borderlands: A Telltale Game Series,Adventure,4.18,1119,2015,85.0,11,1,Singleplayer,9,True,True,True,
+Death's Door,Indie,4.18,385,2021,,5,3,Singleplayer,6,True,True,False,Everyone 10+
+Samorost 3,Adventure,4.18,160,2016,80.0,4,5,Singleplayer,4,True,False,True,Everyone 10+
+OKAMI HD,Adventure,4.18,356,2017,92.0,4,2,Singleplayer,5,True,True,False,Teen
+Metro Exodus,Shooter,4.17,1702,2019,81.0,6,2,Singleplayer,4,True,True,False,Mature
+Lies Of P,Action,4.17,293,2023,,27,2,Singleplayer,6,True,True,False,Mature
+Darkest Dungeon,Strategy,4.17,1355,2016,84.0,8,3,Singleplayer,7,True,True,False,Teen
+Kerbal Space Program,Indie,4.16,407,2015,88.0,5,2,Singleplayer,5,True,True,False,Everyone
+Fahrenheit: Indigo Prophecy Remastered,Adventure,4.16,524,2015,68.0,4,2,Singleplayer,5,True,True,True,Mature
+Returnal,Shooter,4.16,311,2021,86.0,8,2,Both,2,True,True,False,
+Pyre,Adventure,4.16,485,2017,84.0,4,5,Both,4,True,True,False,Everyone 10+
+Sid Meier’s Civilization VI,Strategy,4.16,1419,2016,88.0,15,2,Both,7,True,True,True,Everyone 10+
+Superliminal,Indie,4.16,506,2019,77.0,3,2,Singleplayer,6,True,True,False,
+SOMA,Indie,4.16,1440,2015,84.0,6,3,Singleplayer,5,True,True,False,Mature
+Kenshi,Action,4.16,189,2018,75.0,4,5,Singleplayer,1,True,False,False,Mature
+Diablo III: Eternal Collection,Action,4.16,332,2017,88.0,0,1,Multiplayer,3,False,True,False,Mature
+Teardown,Strategy,4.16,219,2022,80.0,3,4,Singleplayer,2,True,True,False,
+Metal Gear Solid V: The Phantom Pain,Shooter,4.16,2525,2015,91.0,22,2,Both,5,True,True,False,Mature
+Mark of the Ninja: Remastered,Platformer,4.15,337,2018,89.0,4,3,Singleplayer,4,True,True,False,Mature
+A Plague Tale: Innocence,Adventure,4.15,1529,2019,82.0,7,2,Singleplayer,6,True,True,False,Mature
+Oxygen Not Included,Strategy,4.15,376,2017,86.0,7,3,Singleplayer,3,True,False,False,
+Stray,Adventure,4.15,1248,2022,82.0,5,5,Singleplayer,7,True,True,False,Everyone 10+
+Overcooked! 2,Casual,4.15,805,2018,82.0,4,3,Both,6,True,True,False,Everyone
+Star Wars Jedi: Fallen Order,Adventure,4.14,2271,2019,80.0,8,2,Singleplayer,4,True,True,False,Teen
+Microsoft Flight Simulator 2020,Simulation,4.14,271,2020,90.0,21,1,Both,3,True,True,False,Everyone
+Yoku's Island Express,Indie,4.14,215,2018,,3,2,None,4,True,True,False,
+Hyper Light Drifter,Indie,4.14,598,2016,84.0,4,4,Both,7,True,True,True,
+The Evil Within 2,Shooter,4.14,823,2017,82.0,11,3,Singleplayer,3,True,True,False,Mature
+Risk of Rain 2,Shooter,4.14,694,2020,82.0,8,3,Both,4,True,True,False,
+Control,Shooter,4.14,2039,2019,84.0,6,3,Singleplayer,5,True,True,False,Mature
+Kingdom: Two Crowns,Adventure,4.14,196,2018,85.0,6,5,Singleplayer,7,True,True,True,Everyone 10+
+Dark Souls II: Scholar of the First Sin,Action,4.14,1219,2015,79.0,25,2,Both,3,True,True,False,Mature
+Overwatch,Casual,4.13,1149,2016,91.0,35,4,Multiplayer,4,True,True,False,Teen
+Dying Light: The Following - Enhanced Edition,Action,4.13,1107,2015,87.0,17,2,Both,5,True,True,False,
+Half-Life 2: Update,Shooter,4.13,126,2015,96.0,1,1,None,1,True,False,False,Mature
+Life is Strange,Adventure,4.12,3763,2015,83.0,6,1,Singleplayer,9,True,True,True,Mature
+Cities: Skylines,Strategy,4.12,1529,2015,85.0,9,2,Singleplayer,6,True,True,False,Everyone
+Inmost,Indie,4.12,177,2019,77.0,4,3,Singleplayer,4,True,True,True,
+Spyro Reignited Trilogy,Adventure,4.12,538,2018,80.0,5,2,Singleplayer,4,True,True,False,Everyone 10+
+Crash Bandicoot N. Sane Trilogy,Platformer,4.12,647,2017,81.0,4,2,Singleplayer,4,True,True,False,Everyone 10+
+A Way Out,Adventure,4.12,1614,2018,78.0,6,2,Multiplayer,3,True,True,False,Mature
+Spiritfarer,Indie,4.12,379,2020,84.0,5,3,Singleplayer,6,True,True,False,Teen
+Pillars of Eternity II: Deadfire,RPG,4.12,307,2018,82.0,9,1,Singleplayer,6,True,True,False,Mature
+God of War III Remastered,Adventure,4.12,1049,2015,81.0,6,2,None,1,False,True,False,Mature
+Tunic,Indie,4.11,359,2022,86.0,5,3,Singleplayer,7,True,True,False,Everyone
+Stellaris,Strategy,4.11,692,2016,78.0,10,2,Both,3,True,False,False,
+Deep Rock Galactic,Indie,4.11,684,2020,84.0,7,2,Both,3,True,True,False,Teen
+Cult of the Lamb,Indie,4.1,442,2022,,10,4,Singleplayer,7,True,True,False,Teen
+XCOM 2,Strategy,4.1,1311,2016,88.0,15,2,Both,5,True,True,False,Teen
+Guacamelee! 2,Adventure,4.1,253,2018,85.0,5,5,Singleplayer,4,True,True,False,Everyone 10+
+Dying Light,Adventure,4.1,1409,2015,74.0,22,3,None,4,True,True,False,Mature
+Until Dawn,Adventure,4.1,1746,2015,79.0,14,2,None,3,True,True,False,Mature
+Yakuza Kiwami,Adventure,4.1,777,2016,83.0,10,4,None,5,True,True,False,Mature
+Ultimate Chicken Horse,Casual,4.09,226,2016,,4,4,Both,7,True,True,True,
+Thumper,Indie,4.09,291,2016,85.0,3,2,Singleplayer,5,True,True,False,Everyone 10+
+Mini Metro,Strategy,4.09,452,2015,77.0,3,4,Singleplayer,7,True,True,True,
+DRAGON BALL FighterZ,Action,4.09,442,2018,86.0,7,2,Both,4,True,True,False,
+Wolfenstein II: The New Colossus,Shooter,4.09,1769,2017,86.0,11,2,Singleplayer,4,True,True,False,Mature
+Shadow Tactics: Blades of the Shogun,Strategy,4.08,464,2016,85.0,4,2,Singleplayer,5,True,True,False,
+Monster Train,Card,4.08,128,2020,86.0,7,2,Both,4,True,True,True,Teen
+Streets of Rage 4,Indie,4.08,492,2020,84.0,4,4,Both,5,True,True,True,Teen
+Teenage Mutant Ninja Turtles: Shredder's Revenge,Adventure,4.08,440,2022,86.0,3,6,Both,9,True,True,True,Everyone 10+
+Deponia Doomsday,Indie,4.08,214,2016,76.0,5,3,Singleplayer,7,True,True,True,Teen
+Neverwinter Nights: Enhanced Edition,RPG,4.08,141,2017,,3,1,Singleplayer,7,True,True,True,Everyone 10+
+Gears of War: Ultimate Edition,Shooter,4.07,463,2015,78.0,0,2,Both,2,True,True,False,Mature
+The Jackbox Party Pack 4,Casual,4.07,182,2017,78.0,4,3,Both,5,True,True,False,Teen
+Sifu,Action,4.07,384,2022,79.0,3,2,Singleplayer,6,True,True,False,
+Ni no Kuni: Wrath of the White Witch Remastered,RPG,4.07,130,2019,84.0,4,1,Singleplayer,4,True,True,False,Everyone 10+
+Pathologic 2,Indie,4.07,309,2019,69.0,4,3,Singleplayer,3,True,True,False,Mature
+Enter the Gungeon,Shooter,4.07,1071,2016,84.0,6,3,Both,6,True,True,False,Teen
+Tyranny,RPG,4.07,462,2016,80.0,5,1,Singleplayer,3,True,False,False,
+The Last Guardian,Action,4.07,749,2016,82.0,7,2,None,1,False,True,False,Teen
+Overcooked,Casual,4.07,1352,2016,81.0,4,4,Both,4,True,True,False,Everyone
+Wasteland 3,Strategy,4.06,304,2020,83.0,6,2,Singleplayer,5,True,True,False,Teen
+Doki Doki Literature Club!,Indie,4.06,1294,2017,78.0,3,2,Singleplayer,3,True,False,False,
+Thronebreaker: The Witcher Tales,Strategy,4.06,495,2018,83.0,6,3,Singleplayer,5,True,True,True,Teen
+Black Book,Indie,4.06,196,2021,78.0,5,4,Singleplayer,7,True,True,False,Everyone 10+
+SteamWorld Dig 2,Indie,4.06,431,2017,88.0,5,4,Singleplayer,8,True,True,False,Everyone 10+
+Untitled Goose Game,Indie,4.05,714,2019,80.0,2,4,Singleplayer,5,True,True,False,
+Ratchet & Clank,Shooter,4.05,1459,2016,85.0,18,3,None,1,False,True,False,Everyone 10+
+Total War: WARHAMMER,Strategy,4.05,319,2016,86.0,9,2,Both,3,True,False,False,
+Forza Motorsport 7,Racing,4.05,284,2017,84.0,0,1,Multiplayer,2,True,True,False,Everyone
+Unpacking,Casual,4.05,481,2021,84.0,3,1,Singleplayer,8,True,True,False,
+Dishonored: Death of the Outsider,Action,4.05,627,2017,83.0,9,1,Singleplayer,3,True,True,False,Mature
+Tabletop Simulator,RPG,4.05,672,2015,,7,5,Both,3,True,False,False,
+Kingdom Come: Deliverance,Adventure,4.05,1454,2018,71.0,10,3,Singleplayer,3,True,True,False,Mature
+Hitman 2,Shooter,4.05,1225,2018,83.0,5,2,Both,3,True,True,False,Mature
+Hearts of Iron IV,Strategy,4.05,377,2016,83.0,8,2,Both,3,True,False,False,
+South Park: The Fractured But Whole,Adventure,4.04,818,2017,80.0,12,2,Singleplayer,4,True,True,False,Mature
+Rise of the Tomb Raider,Action,4.04,2800,2015,86.0,14,1,Singleplayer,4,True,True,False,
+Forager,Adventure,4.04,225,2016,78.0,7,6,Singleplayer,5,True,True,True,
+Blasphemous,Indie,4.04,574,2019,78.0,3,4,Singleplayer,6,True,True,False,Mature
+Resident Evil 3,Adventure,4.04,1064,2020,80.0,8,2,Both,6,True,True,False,Mature
+Loop Hero,Strategy,4.04,476,2021,83.0,10,4,Singleplayer,7,True,True,True,Teen
+The Jackbox Party Pack 2,Casual,4.04,208,2015,76.0,3,3,Both,6,True,True,False,Teen
+Wallpaper Engine,Casual,4.04,257,2016,,13,1,None,2,True,False,True,
+Nuclear Throne,Shooter,4.03,301,2015,,5,4,Singleplayer,7,True,True,False,Everyone 10+
+Little Nightmares,Platformer,4.03,1631,2017,81.0,3,3,Singleplayer,5,True,True,True,
+Noita,Adventure,4.03,295,2020,76.0,3,5,Singleplayer,1,True,False,False,
+Homeworld Remastered Collection,Strategy,4.03,171,2015,86.0,4,2,Both,3,True,False,True,Teen
+We Were Here Together,Casual,4.02,172,2019,70.0,6,4,Multiplayer,5,True,True,False,
+Portal Stories: Mel,Puzzle,4.02,212,2015,,2,1,Singleplayer,3,True,False,False,
+TEKKEN 7,Action,4.02,780,2015,82.0,7,3,Both,3,True,True,False,Teen
+Broforce,Platformer,4.02,1315,2015,83.0,6,3,Both,5,True,True,False,
+Crash Team Racing Nitro-Fueled,Racing,4.02,335,2019,82.0,0,3,None,3,False,True,False,Everyone 10+
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,Action,4.02,499,2016,80.0,8,2,Both,3,True,True,False,Teen
+Gravity Rush Remastered,Action,4.02,324,2016,80.0,0,1,None,1,False,True,False,Teen
+Bloodstained: Ritual of the Night,Adventure,4.01,460,2019,81.0,6,2,Both,6,True,True,True,Teen
+Monster Hunter: World,Adventure,4.01,1624,2018,89.0,15,3,Both,3,True,True,False,Teen
+Subnautica: Below Zero,Indie,4.01,314,2021,80.0,10,2,Singleplayer,7,True,True,False,Everyone 10+
+Human Resource Machine,Educational,4.01,204,2015,78.0,3,5,Singleplayer,8,True,True,True,Everyone 10+
+Axiom Verge,Indie,4.0,287,2015,80.0,6,4,Singleplayer,8,True,True,False,Teen
+BioShock 2 Remastered,Action,4.0,1013,2016,,4,2,Both,5,True,True,False,Mature
+Grim Fandango Remastered,Adventure,4.0,905,2015,84.0,5,2,Singleplayer,9,True,True,True,Teen
+Valheim,Indie,4.0,634,2021,,12,3,Both,2,True,False,False,
+The Witness,Indie,4.0,1281,2016,87.0,4,3,Singleplayer,6,True,True,True,
+Wolfenstein: The Old Blood,Shooter,4.0,1140,2015,76.0,7,2,Both,3,True,True,False,
+American Truck Simulator,Indie,3.99,251,2016,76.0,6,2,Both,3,True,False,False,
+Nioh: Complete Edition,Action,3.99,271,2017,84.0,9,2,Singleplayer,2,True,True,False,Mature
+Crypt of the NecroDancer,Indie,3.99,597,2015,87.0,4,3,Singleplayer,8,True,True,True,Teen
+Kentucky Route Zero,Indie,3.98,311,2020,81.0,2,2,Singleplayer,6,True,True,True,Teen
+Plague Inc: Evolved,Casual,3.98,662,2015,80.0,5,4,Both,6,True,True,False,Everyone 10+
+Supraland,Indie,3.98,180,2019,84.0,5,4,Singleplayer,5,True,True,False,
+Assassin's Creed Odyssey,Action,3.98,2097,2018,85.0,31,2,Singleplayer,4,True,True,False,Mature
+Borderlands: The Handsome Collection,Adventure,3.98,158,2015,,0,2,None,4,True,True,False,
+Helltaker,Indie,3.97,555,2020,,2,3,Singleplayer,3,True,False,False,
+Her Story,Indie,3.97,625,2015,88.0,4,4,Singleplayer,4,True,False,True,
+Days Gone,Action,3.97,1391,2019,74.0,10,1,Both,2,True,True,False,Mature
+SnowRunner,Racing,3.97,276,2020,80.0,6,1,None,6,True,True,False,Everyone
+Tales of Berseria,Action,3.97,336,2016,80.0,6,2,Both,3,True,True,False,Teen
+Call of Duty: Modern Warfare 2 Campaign Remastered,Shooter,3.97,288,2020,71.0,0,2,None,3,True,True,False,Mature
+Call of Duty: Modern Warfare Remastered,Shooter,3.97,1138,2016,86.0,5,2,Both,3,True,True,False,Mature
+Not For Broadcast,Indie,3.97,98,2022,,3,3,Singleplayer,1,True,False,False,
+Kena: Bridge of Spirits,Shooter,3.97,462,2021,80.0,4,5,Singleplayer,4,True,True,False,Everyone 10+
+Mortal Kombat 11,Adventure,3.97,1140,2019,82.0,9,3,Both,6,True,True,False,Mature
+Pillars of Eternity,RPG,3.96,722,2015,89.0,9,1,Singleplayer,5,True,True,False,
+Full Throttle Remastered,Adventure,3.96,434,2017,77.0,3,1,Singleplayer,7,True,True,True,Teen
+Little Misfortune,Casual,3.96,193,2019,57.0,4,3,Singleplayer,6,True,True,True,
+Donut County,Casual,3.96,508,2018,80.0,3,4,Singleplayer,6,True,True,True,Everyone 10+
+Deus Ex: Mankind Divided,Action,3.96,2012,2016,83.0,7,2,Singleplayer,5,True,True,False,Mature
+Assassin's Creed Origins,Action,3.96,2097,2017,81.0,28,2,None,3,True,True,False,Mature
+PowerWash Simulator,Casual,3.96,154,2022,,11,3,Singleplayer,4,True,True,False,
+Unravel Two,Platformer,3.96,621,2018,79.0,2,4,Both,4,True,True,False,
+Deathloop,Action,3.96,549,2021,88.0,6,2,Both,3,True,True,False,Mature
+Metal: Hellsinger,Shooter,3.96,188,2022,79.0,3,3,Singleplayer,5,True,True,False,
+Road 96,Indie,3.95,261,2021,78.0,6,3,Singleplayer,6,True,True,False,Teen
+Pony Island,Arcade,3.95,343,2016,86.0,3,4,Singleplayer,3,True,False,False,
+Gravity Rush 2,Action,3.95,280,2017,80.0,0,1,None,1,False,True,False,Teen
+Life is Strange: Before The Storm,Adventure,3.95,1248,2017,77.0,11,1,Singleplayer,7,True,True,True,Mature
+Grim Dawn,Indie,3.95,577,2016,83.0,8,3,Both,3,True,True,False,
+Nioh 2,Action,3.95,150,2020,85.0,0,1,None,3,True,True,False,Mature
+Gunfire Reborn,Shooter,3.94,124,2020,,7,5,Both,2,True,False,True,Mature
+Unravel,Adventure,3.94,782,2016,78.0,2,5,Singleplayer,5,True,True,False,Everyone
+Insurgency: Sandstorm,Shooter,3.94,197,2018,80.0,6,2,Both,5,True,True,False,
+Valkyria Chronicles 4,Strategy,3.94,103,2018,83.0,5,3,Singleplayer,4,True,True,False,Teen
+Crash Bandicoot 4: It’s About Time,Platformer,3.94,208,2020,84.0,5,2,Singleplayer,6,True,True,False,Everyone 10+
+SteamWorld Heist,Adventure,3.94,326,2015,81.0,5,6,Singleplayer,9,True,True,True,Everyone 10+
+Muse Dash,Casual,3.94,139,2018,73.0,3,3,Singleplayer,5,True,True,True,
+Rocket League,Racing,3.93,2855,2015,86.0,21,3,Both,6,True,True,False,Everyone
+Hitman,Shooter,3.93,2029,2016,83.0,7,3,Singleplayer,5,True,True,False,Adults Only
+ACE COMBAT 7: SKIES UNKNOWN,Arcade,3.93,287,2019,79.0,4,4,Both,3,True,True,False,Teen
+Tales of Arise,Action,3.93,189,2021,85.0,13,2,Both,5,True,True,False,Teen
+Bloons TD 6,Strategy,3.93,206,2018,,8,2,Singleplayer,4,True,False,True,
+Devil Daggers,Indie,3.93,160,2016,83.0,1,2,Singleplayer,3,True,False,False,
+Trine 4: The Nightmare Prince,Platformer,3.93,215,2019,80.0,5,4,Both,4,True,True,False,Everyone 10+
+Furi,Arcade,3.93,710,2016,76.0,4,2,Singleplayer,4,True,True,False,Mature
+Elite Dangerous,Adventure,3.93,476,2015,80.0,14,5,Both,4,True,True,False,Teen
+Bulletstorm: Full Clip Edition,Adventure,3.93,639,2017,76.0,4,2,Both,4,True,True,False,Mature
+Pikuniku,Adventure,3.93,236,2019,75.0,3,5,Both,5,True,True,False,
+Pathfinder: Kingmaker,RPG,3.92,327,2018,73.0,10,1,Singleplayer,5,True,True,False,Teen
+Octopath Traveler,Adventure,3.92,314,2018,82.0,6,2,Singleplayer,5,True,True,False,
+Gran Turismo Sport,Racing,3.92,557,2017,75.0,0,1,None,1,False,True,False,Everyone
+Hogwarts Legacy,Action,3.92,911,2023,,30,2,Singleplayer,6,True,True,False,Teen
+Injustice 2,Fighting,3.92,953,2017,88.0,6,1,Both,5,True,True,True,Teen
+Pummel Party,Casual,3.91,172,2018,,4,3,Both,1,True,False,False,
+Gears of War 4,Shooter,3.91,686,2016,85.0,0,2,Both,3,True,True,False,Mature
+Oxenfree,Indie,3.91,925,2016,80.0,4,3,Singleplayer,8,True,True,True,Teen
+ABZU,Indie,3.91,1098,2016,83.0,3,3,Singleplayer,4,True,True,False,Everyone
+Planet Zoo,Strategy,3.91,134,2019,81.0,5,2,Singleplayer,1,True,False,False,Everyone 10+
+Shadow of the Tomb Raider,Adventure,3.91,1651,2018,78.0,10,2,Singleplayer,5,True,True,False,Mature
+Marvel Snap,Casual,3.91,107,2022,,2,3,Multiplayer,3,True,False,True,Everyone 10+
+Children of Morta,Indie,3.91,393,2019,80.0,4,4,Singleplayer,6,True,True,False,Teen
+Salt and Sanctuary,Platformer,3.91,350,2016,84.0,3,4,Singleplayer,7,True,True,False,
+Quantum Break,Shooter,3.91,1343,2016,66.0,6,2,Singleplayer,2,True,True,False,Mature
+Gears 5,Shooter,3.91,845,2019,83.0,7,2,Both,3,True,True,False,
+Paradise Killer,Indie,3.9,60,2020,84.0,5,3,Singleplayer,6,True,True,False,Mature
+Observеr,Casual,3.9,475,2017,77.0,4,4,Singleplayer,6,True,True,False,Mature
+Stories Untold,Indie,3.9,180,2017,81.0,3,3,Singleplayer,4,True,True,False,Mature
+Squad,Shooter,3.9,113,2020,,7,2,Multiplayer,1,True,False,False,
+Persona 5 Strikers,Adventure,3.9,166,2020,80.0,9,3,Singleplayer,3,True,True,False,Mature
+Nex Machina,Indie,3.9,153,2017,89.0,3,2,Singleplayer,2,True,True,False,
+MORDHAU,Indie,3.9,266,2019,81.0,7,2,Multiplayer,1,True,False,False,Mature
+FINAL FANTASY XV WINDOWS EDITION,RPG,3.9,304,2018,81.0,9,1,Singleplayer,1,True,False,False,Teen
+Mafia II: Definitive Edition,Adventure,3.89,624,2020,65.0,3,2,Singleplayer,3,True,True,False,
+HuniePop,RPG,3.89,257,2015,,7,5,Singleplayer,3,True,False,False,Adults Only
+Ni no Kuni II: Revenant Kingdom,Adventure,3.89,435,2018,82.0,7,2,Singleplayer,5,True,True,False,Everyone 10+
+This is the Police,Indie,3.89,720,2016,66.0,6,4,Singleplayer,8,True,True,True,Mature
+The Dark Pictures Anthology: House of Ashes,Adventure,3.89,357,2021,73.0,6,2,None,5,True,True,False,
+Rain World,Indie,3.89,130,2017,66.0,1,4,Both,3,True,True,False,Everyone 10+
+Kingdom: New Lands,Casual,3.89,372,2015,80.0,4,5,Singleplayer,8,True,True,True,Everyone 10+
+Raft,Adventure,3.89,443,2022,,8,1,Both,1,True,False,False,
+Pathologic Classic HD,Indie,3.88,263,2015,76.0,4,4,Singleplayer,1,True,False,False,
+Do Not Feed the Monkeys,Adventure,3.88,229,2018,77.0,4,5,Singleplayer,8,True,True,True,
+SHENZHEN I/O,Indie,3.88,92,2016,,3,3,Singleplayer,3,True,False,False,
+Dorfromantik,Puzzle,3.88,219,2022,,3,5,Both,2,True,True,False,
+Turnip Boy Commits Tax Evasion,Casual,3.88,99,2021,74.0,3,4,Singleplayer,5,True,True,False,
+Tom Clancy's Rainbow Six Siege,Shooter,3.88,1515,2015,75.0,32,2,Both,5,True,True,False,Teen
+Gears Tactics,Strategy,3.88,221,2020,81.0,7,1,Singleplayer,2,True,True,False,Adults Only
+Burnout Paradise Remastered,Racing,3.88,427,2018,80.0,2,2,Both,4,True,True,False,Everyone 10+
+My Friend Pedro,Shooter,3.87,747,2019,76.0,3,5,Singleplayer,5,True,True,True,Mature
+FINAL FANTASY XV,RPG,3.87,1424,2016,82.0,5,1,None,3,True,True,False,Teen
+Slime Rancher,Indie,3.87,577,2016,81.0,6,4,Both,6,True,True,False,Everyone 10+
+Monster Prom,Indie,3.87,144,2018,73.0,4,2,Both,3,True,False,False,Teen
+Borderlands 3,Shooter,3.87,970,2019,83.0,11,4,Both,6,True,True,False,Mature
+Endless Space 2,Strategy,3.87,227,2016,82.0,5,1,Both,2,True,False,False,
+Superhot: Mind Control Delete,Indie,3.86,386,2020,79.0,2,2,Singleplayer,5,True,True,False,
+Ghost of a Tale,Indie,3.86,165,2018,77.0,2,4,Singleplayer,4,True,True,False,Everyone 10+
+Batman: The Enemy Within,Adventure,3.86,425,2017,68.0,9,2,Singleplayer,7,True,True,True,Mature
+Mortal Kombat X,Action,3.86,2114,2015,76.0,7,2,Both,3,True,True,False,Mature
+Carrion,Indie,3.86,450,2020,76.0,4,3,Singleplayer,6,True,True,False,Mature
+Kingdom Hearts III,Action,3.86,538,2019,82.0,0,2,Singleplayer,3,True,True,False,Everyone 10+
+Phasmophobia,Indie,3.86,430,2020,,6,2,Both,1,True,False,False,
+Observation,Indie,3.86,270,2019,77.0,4,2,Singleplayer,3,True,True,False,Mature
+Sonic Mania,Casual,3.86,858,2017,85.0,3,4,Both,4,True,True,False,Everyone
+Momodora: Reverie Under the Moonlight,Indie,3.86,186,2016,82.0,3,4,Singleplayer,4,True,True,False,
+Hunt: Showdown,Shooter,3.86,316,2018,79.0,6,2,None,3,True,True,False,Mature
+Hidden Folks,Casual,3.86,209,2017,78.0,3,4,Singleplayer,6,True,True,True,Everyone
+Middle-earth: Shadow of War,Action,3.86,1380,2017,82.0,13,2,Singleplayer,4,True,True,True,Mature
+This Is the Police 2,Indie,3.86,222,2018,64.0,5,4,Singleplayer,7,True,True,True,Mature
+PC Building Simulator,Strategy,3.85,267,2018,,4,3,Singleplayer,4,True,True,False,Everyone
+Atomic Heart,Shooter,3.85,612,2023,73.0,12,3,Singleplayer,5,True,True,False,Mature
+The Outer Worlds,Shooter,3.85,1487,2019,80.0,8,4,Singleplayer,4,True,True,False,
+The Quarry,Adventure,3.85,345,2022,,5,2,Both,5,True,True,False,Mature
+Downwell,Adventure,3.85,457,2015,81.0,2,6,Singleplayer,6,True,True,True,
+We Were Here Too,Casual,3.85,221,2018,70.0,4,4,None,5,True,True,False,
+Vampire: The Masquerade – Bloodlines 2,Action,3.85,345,2025,,329,2,Singleplayer,5,True,True,False,
+The Final Station,Indie,3.85,334,2016,76.0,4,3,Singleplayer,6,True,True,False,
+Ghostrunner,Action,3.84,647,2020,,4,1,Singleplayer,6,True,True,False,Mature
+Lego Star Wars: The Skywalker Saga,Platformer,3.84,233,2022,80.0,7,3,Singleplayer,6,True,True,False,Everyone 10+
+Streets of Rogue,Indie,3.84,164,2017,,4,4,Both,6,True,True,False,Teen
+Watch Dogs 2,Adventure,3.84,1766,2016,79.0,17,2,Both,3,True,True,False,Mature
+Battlefield 1,Shooter,3.84,1970,2016,88.0,6,2,Both,3,True,True,False,
+House Flipper,Indie,3.84,347,2018,62.0,7,3,Singleplayer,6,True,True,True,Everyone
+Among Us,Casual,3.83,1337,2018,82.0,5,3,Multiplayer,7,True,True,True,Everyone 10+
+Shadowrun: Hong Kong - Extended Edition,Indie,3.83,223,2015,81.0,5,4,Singleplayer,3,True,False,False,
+Golf With Your Friends,Casual,3.83,372,2016,69.0,4,3,Both,6,True,True,False,Everyone 10+
+Google Earth VR,Casual,3.83,63,2016,,1,3,Singleplayer,1,True,False,False,
+Owlboy,Indie,3.83,307,2016,88.0,4,4,Singleplayer,5,True,True,False,
+Resident Evil 0 / Biohazard 0 HD REMASTER,Adventure,3.83,415,2016,69.0,5,2,Both,6,True,True,False,Mature
+"Yes, Your Grace",Strategy,3.83,155,2020,,4,1,Singleplayer,7,True,True,True,Teen
+Stick Fight: The Game,Casual,3.82,390,2017,,3,3,Both,4,True,False,True,Everyone
+Call of Duty: Modern Warfare II,Shooter,3.82,229,2022,,10,2,Both,5,True,True,False,
+High on Life,Shooter,3.82,264,2022,,4,3,Both,4,True,True,False,
+Human: Fall Flat,Indie,3.82,1028,2016,70.0,5,3,Both,8,True,True,True,Everyone
+Starbound,Casual,3.82,852,2016,81.0,17,4,Both,3,True,False,False,
+Fallout 4,Action,3.81,3419,2015,84.0,38,2,Singleplayer,4,True,True,False,Mature
+Viscera Cleanup Detail,Indie,3.81,151,2015,,5,2,Both,2,True,False,False,
+Aperture Desk Job,Casual,3.81,204,2022,,1,3,Singleplayer,2,True,False,False,
+Tropico 6,Strategy,3.81,157,2019,76.0,4,2,Singleplayer,6,True,True,False,Everyone
+Rusty Lake Hotel,Indie,3.81,215,2015,65.0,3,3,Singleplayer,4,True,False,True,
+Beholder,Indie,3.81,728,2016,75.0,4,4,Singleplayer,8,True,True,True,Teen
+Nioh,Action,3.81,693,2017,88.0,0,2,None,2,True,True,False,Mature
+The Dark Pictures Anthology: Little Hope,Adventure,3.8,450,2020,70.0,6,2,Both,4,True,True,False,Mature
+Darkwood,Indie,3.8,253,2017,78.0,2,4,Singleplayer,6,True,True,False,Mature
+Barotrauma,Strategy,3.8,190,2023,81.0,4,4,Both,3,True,False,False,
+ClusterTruck,Indie,3.8,308,2016,76.0,2,4,Both,6,True,True,False,
+Call of Duty: Black Ops Cold War,Shooter,3.8,375,2020,76.0,11,2,Both,5,True,True,False,
+Darksiders II Deathinitive Edition,Action,3.79,681,2015,75.0,9,2,Both,4,True,True,False,
+We Were Here,Adventure,3.79,478,2017,63.0,2,3,Both,5,True,True,False,Teen
+Grounded,Indie,3.79,296,2022,82.0,6,2,Both,4,True,True,False,Teen
+Besiege,Strategy,3.79,470,2015,,2,3,Singleplayer,3,True,False,False,
+Worms W.M.D,Strategy,3.79,316,2016,79.0,3,2,Both,6,True,True,False,Everyone 10+
+Life is Strange: True Colors,Adventure,3.79,407,2021,,11,2,Singleplayer,6,True,True,False,Mature
+Life is Strange 2,Adventure,3.79,770,2018,75.0,6,1,Singleplayer,6,True,True,False,Mature
+Resident Evil 7 / Biohazard 7 Teaser: Beginning Hour,Adventure,3.79,323,2016,,1,2,Both,3,True,True,False,Adults Only
+Borderlands Game of the Year Enhanced,Shooter,3.79,1035,2019,78.0,3,3,Both,4,True,True,False,Mature
+Cat Quest,Indie,3.79,236,2017,77.0,4,4,Singleplayer,6,True,True,True,Everyone 10+
+Planet Coaster,Strategy,3.78,294,2016,83.0,5,2,Both,5,True,True,False,Everyone
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,Shooter,3.78,307,2024,,7,4,Singleplayer,2,True,True,False,
+Titan Quest Anniversary Edition,Action,3.78,793,2016,,5,2,Both,1,True,False,False,
+Mad Max,Adventure,3.78,1751,2015,73.0,11,2,Both,6,True,True,False,Mature
+Astroneer,Indie,3.78,510,2019,73.0,9,2,Both,4,True,True,False,Everyone
+Rising Storm 2: VIETNAM,Action,3.77,132,2017,81.0,5,5,Both,1,True,False,False,
+Northgard,Adventure,3.77,496,2018,79.0,5,5,Both,7,True,True,True,
+Don't Starve Together,Indie,3.77,1394,2016,83.0,7,3,Both,5,True,True,False,
+BADLAND: Game of the Year Edition,Indie,3.77,117,2015,79.0,5,3,Both,7,True,True,True,
+SpeedRunners,Racing,3.76,525,2016,84.0,4,5,Both,6,True,True,False,Everyone 10+
+Iconoclasts,Indie,3.76,382,2018,86.0,4,4,Singleplayer,5,True,True,False,Everyone 10+
+Call of Duty: Modern Warfare (2019),Shooter,3.76,723,2019,80.0,9,2,Both,3,True,True,False,
+The Order: 1886,Adventure,3.76,985,2015,63.0,11,2,Singleplayer,1,False,True,False,Mature
+Minit,Indie,3.76,300,2018,78.0,2,3,Singleplayer,7,True,True,True,Everyone 10+
+The Vanishing of Ethan Carter Redux,Indie,3.76,110,2015,80.0,3,2,None,1,True,False,False,Mature
+Project Warlock,Shooter,3.76,96,2018,,2,3,Singleplayer,4,True,True,False,Mature
+Diablo IV,Action,3.75,305,2023,90.0,13,2,Both,5,True,True,False,
+Batman: The Telltale Series,Adventure,3.75,430,2016,79.0,9,1,None,9,True,True,True,Mature
+Ring of Pain,Strategy,3.75,62,2020,,3,2,Singleplayer,4,True,True,False,
+Moonlighter,Indie,3.74,495,2018,82.0,5,3,Singleplayer,8,True,True,True,Everyone 10+
+Halo 5: Guardians,Shooter,3.74,541,2015,84.0,0,3,Both,1,False,True,False,Teen
+Age of Empires III: Definitive Edition,Strategy,3.74,106,2020,75.0,3,1,Both,1,True,False,False,
+Mirror,Arcade,3.74,189,2017,,5,4,Singleplayer,3,True,False,True,Adults Only
+Two Point Hospital,RPG,3.74,406,2018,84.0,4,2,Singleplayer,6,True,True,True,
+The Sexy Brutale,Indie,3.74,149,2017,83.0,4,2,Singleplayer,4,True,True,False,
+Tom Clancy’s The Division 2,Shooter,3.74,775,2019,83.0,5,4,Both,4,True,True,False,
+The Forest,Indie,3.74,930,2018,,8,3,Both,2,True,True,False,Mature
+Fall Guys: Ultimate Knockout,Action,3.74,1353,2020,80.0,6,5,None,5,True,True,False,Everyone
+Totally Accurate Battle Simulator,Strategy,3.74,234,2021,,2,3,Both,5,True,True,False,
+Prison Architect,Strategy,3.73,585,2015,83.0,5,3,Singleplayer,6,True,True,False,Mature
+Graveyard Keeper,Adventure,3.73,438,2018,68.0,7,6,Singleplayer,8,True,True,True,Teen
+LEGO Jurassic World,Family,3.73,206,2015,72.0,6,4,Both,12,True,True,True,Everyone 10+
+Mutant Year Zero: Road to Eden,Strategy,3.73,471,2018,78.0,4,3,Singleplayer,4,True,True,False,Mature
+Reigns,Adventure,3.73,383,2016,77.0,3,5,Singleplayer,5,True,False,True,
+"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",Indie,3.73,315,2015,,1,1,Singleplayer,2,True,False,False,
+Immortals: Fenyx Rising,Adventure,3.72,385,2020,78.0,3,3,Singleplayer,6,True,True,False,
+Ruiner,Shooter,3.72,596,2017,78.0,4,2,None,6,True,True,False,Mature
+V Rising,Massively Multiplayer,3.72,171,2024,,7,3,Both,1,True,False,False,
+Void Bastards,Strategy,3.72,331,2019,78.0,2,3,Singleplayer,5,True,True,False,Mature
+Battle Chasers: Nightwar,Strategy,3.72,238,2017,79.0,5,3,Singleplayer,8,True,True,True,Teen
+Far Cry 5,Shooter,3.72,2170,2018,80.0,19,2,Both,3,True,True,False,Mature
+Going Under,Indie,3.72,72,2020,78.0,3,2,Singleplayer,4,True,True,False,
+UNO,Casual,3.72,265,2016,66.0,3,2,Both,7,True,True,False,Everyone
+Hand of Fate,Indie,3.71,320,2015,78.0,4,4,Singleplayer,5,True,True,False,
+Tearaway Unfolded,Family,3.71,359,2015,81.0,0,3,None,1,False,True,False,Everyone 10+
+SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated,Family,3.71,187,2020,68.0,3,4,Both,6,True,True,True,Everyone 10+
+No Man's Sky,Adventure,3.71,1576,2016,75.0,15,6,Both,5,True,True,False,Teen
+Knowledge is Power,Family,3.71,465,2017,71.0,0,1,None,3,False,True,True,Teen
+Call of the Sea,Casual,3.71,234,2020,77.0,3,4,Both,5,True,True,False,
+Potion Craft: Alchemist Simulator,Casual,3.71,189,2022,,3,3,Singleplayer,2,True,True,False,
+SoulCalibur VI,Action,3.7,221,2018,83.0,3,2,Both,3,True,True,False,Teen
+Breathedge,Indie,3.7,270,2021,66.0,4,4,Singleplayer,3,True,True,False,Teen
+Sherlock Holmes: The Devil's Daughter,Adventure,3.7,378,2016,65.0,7,2,Singleplayer,4,True,True,False,Teen
+Tom Clancy’s The Division,Shooter,3.7,1345,2016,80.0,27,3,Both,3,True,True,False,Mature
+Sunless Sea,Indie,3.7,243,2015,81.0,3,3,Singleplayer,4,True,False,True,Teen
+Move or Die,Indie,3.7,208,2016,80.0,3,2,Both,4,True,True,False,Everyone 10+
+Cloudpunk,Indie,3.7,131,2020,65.0,2,3,Singleplayer,4,True,True,False,
+Townscaper,Casual,3.7,198,2020,,1,3,Singleplayer,4,True,False,True,
+The Finals,Shooter,3.7,208,2023,,3,2,Multiplayer,3,True,True,False,Teen
+DiRT Rally,Racing,3.69,673,2015,86.0,4,3,Both,5,True,True,False,
+Assassin's Creed Valhalla,Adventure,3.69,790,2020,82.0,5,3,Both,5,True,True,False,
+Lara Croft GO,Adventure,3.69,277,2015,84.0,3,2,Singleplayer,7,True,True,True,Everyone 10+
+Magicka 2,Adventure,3.69,682,2015,69.0,4,3,Both,4,True,True,False,Teen
+Sea of Thieves,Massively Multiplayer,3.69,1055,2018,68.0,13,3,Both,4,True,True,False,Teen
+Mega Man Legacy Collection / ロックマン クラシックス コレクション,Arcade,3.69,155,2015,85.0,3,2,Singleplayer,5,True,True,False,
+Wandersong,Indie,3.68,94,2018,,3,2,Singleplayer,5,True,True,False,Everyone 10+
+Darksiders Warmastered Edition,Action,3.68,938,2016,79.0,5,2,Singleplayer,5,True,True,False,Mature
+Resident Evil Revelations 2,Adventure,3.68,772,2015,72.0,4,2,Both,7,True,True,False,Mature
+BPM: BULLETS PER MINUTE,Indie,3.68,136,2020,77.0,2,4,Singleplayer,3,True,True,False,
+Outlast 2,Indie,3.68,734,2017,76.0,5,3,Singleplayer,4,True,True,False,Adults Only
+Evoland 2,Adventure,3.67,167,2015,74.0,2,5,Singleplayer,4,True,False,True,Everyone 10+
+Tacoma,Indie,3.67,305,2017,78.0,4,2,Singleplayer,5,True,True,False,Mature
+Beat Cop,Indie,3.67,141,2017,71.0,3,4,Singleplayer,6,True,True,True,
+Tricky Towers,Casual,3.67,454,2016,80.0,3,4,Both,8,True,True,True,Everyone 10+
+RiME,Adventure,3.67,778,2017,78.0,4,2,Singleplayer,4,True,True,False,Everyone 10+
+Beholder 2,Indie,3.67,159,2018,76.0,5,4,Singleplayer,8,True,True,True,Mature
+Wreckfest,Racing,3.67,383,2018,79.0,3,2,Both,8,True,True,True,Teen
+112 Operator,Strategy,3.67,54,2020,,3,3,Singleplayer,4,True,False,True,Teen
+Assassin's Creed Syndicate,Action,3.66,1515,2015,74.0,22,1,Both,3,True,True,False,Mature
+LEGO Marvel Super Heroes 2,Adventure,3.66,186,2017,74.0,6,2,Both,5,True,True,False,Everyone 10+
+Day of the Tentacle Remastered,Family,3.66,380,2016,86.0,3,2,Singleplayer,7,True,True,True,Teen
+LEGO Marvel's Avengers,Adventure,3.66,226,2016,67.0,6,2,Both,10,True,True,True,Everyone 10+
+Moving Out,Casual,3.65,198,2020,77.0,2,4,Both,5,True,True,False,Everyone
+Dying Light 2 Stay Human,Adventure,3.65,438,2022,77.0,23,3,Both,6,True,True,False,
+Journey to the Savage Planet,Adventure,3.65,214,2020,76.0,3,2,Both,4,True,True,False,
+F1 2019,Racing,3.65,130,2019,87.0,8,3,Singleplayer,3,True,True,False,
+"Gremlins, Inc.",Card,3.65,138,2016,75.0,5,4,Both,3,True,False,False,
+Punch Club,RPG,3.65,379,2016,73.0,5,6,Singleplayer,9,True,True,True,Teen
+Yakuza 3 Remastered,Adventure,3.64,107,2021,77.0,6,2,Singleplayer,3,True,True,False,Adults Only
+Halo Infinite,Shooter,3.64,728,2021,84.0,2,3,Both,3,True,True,False,Teen
+Portal with RTX,Adventure,3.64,88,2022,,1,3,Singleplayer,1,True,False,False,
+Bad North,Strategy,3.63,143,2016,70.0,2,4,Singleplayer,7,True,True,True,Teen
+Wasteland 2: Director's Cut,Indie,3.63,329,2015,87.0,6,4,Singleplayer,6,True,True,False,Adults Only
+The Dark Pictures Anthology: Man of Medan,Adventure,3.63,759,2019,71.0,5,2,Both,4,True,True,False,Mature
+Curse of the Dead Gods,Adventure,3.63,189,2021,81.0,2,3,Singleplayer,4,True,True,False,
+Apex Legends,Shooter,3.63,2411,2019,80.0,5,2,Multiplayer,5,True,True,False,Teen
+The Walking Dead: A New Frontier,Adventure,3.63,630,2016,71.0,9,2,Singleplayer,7,True,True,True,Mature
+DOOM 64 (2020),Shooter,3.63,129,2020,76.0,1,2,Singleplayer,4,True,True,False,
+Jurassic World Evolution,Strategy,3.62,344,2018,71.0,6,3,Both,4,True,True,False,Teen
+LEGO Star Wars: The Force Awakens,Adventure,3.62,278,2016,75.0,5,3,Both,11,True,True,True,Everyone 10+
+Bridge Constructor Portal,Strategy,3.62,223,2017,78.0,3,3,Singleplayer,8,True,True,True,Everyone 10+
+Trine 3: The Artifacts of Power,Indie,3.62,308,2015,,4,3,Both,5,True,True,False,
+Aragami,Indie,3.61,226,2016,71.0,3,3,Both,6,True,True,False,Mature
+Remnant: From the Ashes,Adventure,3.61,655,2019,76.0,7,3,Singleplayer,4,True,True,False,Everyone
+HELLDIVERS,Action,3.61,563,2015,83.0,5,1,Both,3,True,True,False,Mature
+The Council,Adventure,3.61,349,2018,76.0,4,3,Singleplayer,3,True,True,False,Mature
+Unrailed!,Casual,3.61,108,2020,73.0,3,3,Multiplayer,4,True,True,False,
+Project CARS 2,Racing,3.61,229,2017,86.0,4,3,None,3,True,True,False,Everyone
+Warhammer: Vermintide 2,Indie,3.61,778,2018,82.0,7,2,None,3,True,True,False,Mature
+The Awesome Adventures of Captain Spirit,Adventure,3.61,930,2018,77.0,2,1,Singleplayer,3,True,True,False,
+Scarlet Nexus,Adventure,3.61,211,2021,79.0,7,3,Singleplayer,5,True,True,False,Teen
+Wargroove,Strategy,3.6,213,2019,83.0,3,2,Both,4,True,True,False,Everyone 10+
+Getting Over It with Bennett Foddy,Action,3.6,285,2017,,2,2,Singleplayer,4,True,False,True,
+Armello,Adventure,3.6,212,2015,75.0,5,5,Both,7,True,True,True,Teen
+DiRT 4,Racing,3.6,262,2017,78.0,4,2,Both,3,True,True,False,Everyone 10+
+SYNTHETIK,Indie,3.6,117,2018,,4,2,Singleplayer,1,True,False,False,
+Epistory - Typing Chronicles,Indie,3.6,132,2016,74.0,4,3,Singleplayer,3,True,False,False,
+Crying Suns,Strategy,3.6,58,2018,,4,3,Singleplayer,3,True,False,True,Teen
+Mother Russia Bleeds,Indie,3.59,237,2016,70.0,3,4,Both,5,True,True,False,
+Q.U.B.E. 2,Indie,3.59,169,2018,75.0,4,3,Singleplayer,4,True,True,False,
+Gwent: The Witcher Card Game,Card,3.59,1032,2018,80.0,2,4,Both,5,True,True,True,Teen
+TIS-100,Indie,3.59,123,2015,,1,3,Singleplayer,3,True,False,False,Everyone
+EA SPORTS UFC 3,Sports,3.59,319,2018,76.0,0,1,Multiplayer,2,False,True,False,Teen
+Torment: Tides of Numenera,Indie,3.59,205,2017,81.0,3,4,Singleplayer,5,True,True,False,
+F1 2020,Racing,3.59,114,2020,88.0,8,2,Both,3,True,True,False,Everyone
+Late Shift,Indie,3.59,310,2017,80.0,3,3,Singleplayer,5,True,True,False,
+This War of Mine: The Little Ones,Action,3.58,316,2016,82.0,0,1,None,2,False,True,False,Mature
+BATTLETECH,Strategy,3.58,160,2018,78.0,4,3,Both,3,True,False,False,
+Sniper Elite 4,Shooter,3.58,746,2017,78.0,6,3,Both,6,True,True,False,Mature
+Lovers in a Dangerous Spacetime,Shooter,3.58,389,2015,80.0,3,4,Both,6,True,True,False,
+Call of Duty: Infinite Warfare,Shooter,3.58,628,2016,73.0,10,2,Both,3,True,True,False,Mature
+The Turing Test,Adventure,3.58,325,2016,74.0,4,1,Singleplayer,4,True,True,False,Teen
+Darksiders Genesis,Adventure,3.58,226,2019,76.0,4,3,Both,4,True,True,False,
+Far Cry Primal,Shooter,3.58,859,2016,74.0,9,2,Singleplayer,3,True,True,False,Mature
+Emily is Away,Casual,3.58,437,2015,,1,4,Singleplayer,3,True,False,False,
+The Escapists 2,Strategy,3.57,271,2017,74.0,4,3,Both,6,True,True,False,
+Chasm,Adventure,3.57,82,2018,,4,6,Singleplayer,6,True,True,False,
+Valfaris,Indie,3.57,58,2019,81.0,1,2,Singleplayer,4,True,True,False,Mature
+STAR WARS Battlefront II,Shooter,3.57,1366,2017,74.0,4,3,Both,3,True,True,False,Teen
+Hitman GO: Definitive Edition,Strategy,3.57,183,2016,72.0,4,2,Singleplayer,4,True,True,False,Everyone 10+
+Old Man's Journey,Adventure,3.57,249,2017,77.0,2,5,Singleplayer,7,True,True,True,Everyone
+LIGHTNING RETURNS: FINAL FANTASY XIII,RPG,3.57,155,2015,,4,1,Singleplayer,2,True,False,False,Mature
+Tom Clancy's Ghost Recon Wildlands,Shooter,3.57,718,2017,72.0,18,3,Both,3,True,True,False,Mature
+DiRT Rally 2.0,Racing,3.57,334,2019,83.0,2,3,Both,3,True,True,False,
+Project CARS,Racing,3.57,270,2015,83.0,4,3,Both,3,True,True,False,Everyone
+Tales of Zestiria,RPG,3.57,235,2015,77.0,5,1,Both,3,True,True,False,
+Hellblade: Senua's Sacrifice VR Edition,Indie,3.57,243,2018,87.0,1,3,Singleplayer,1,True,False,False,Adults Only
+That's You!,Casual,3.57,486,2017,,0,1,None,3,False,True,True,Teen
+LEGO DC Super-Villains,Family,3.57,151,2018,74.0,4,3,Both,4,True,True,False,
+Quiplash,Casual,3.56,155,2015,,1,3,Multiplayer,5,True,True,False,
+The Incredible Adventures of Van Helsing: Final Cut,Indie,3.56,136,2015,79.0,4,4,Both,1,True,False,False,Teen
+The Surge 2,Adventure,3.55,168,2019,76.0,4,3,Singleplayer,3,True,True,False,Mature
+Call of Duty: WWII,Shooter,3.55,1177,2017,77.0,6,2,Both,3,True,True,False,Mature
+Book of Demons,Adventure,3.55,151,2018,72.0,3,5,Singleplayer,4,True,True,False,Teen
+Immortal Redneck,Indie,3.55,96,2017,69.0,4,2,Singleplayer,6,True,True,False,Teen
+Assassin's Creed III: Remastered,Adventure,3.55,415,2019,71.0,4,2,Singleplayer,4,True,True,False,Mature
+Wizard of Legend,Indie,3.55,245,2018,77.0,3,3,Singleplayer,6,True,True,False,Everyone 10+
+Genshin Impact,Adventure,3.55,1100,2020,83.0,0,3,Both,6,True,True,True,Teen
+WipEout Omega Collection,Racing,3.55,292,2017,85.0,0,1,None,1,False,True,False,Everyone 10+
+Ghostrunner Demo,,3.55,82,2020,,1,0,None,1,True,False,False,
+Hell Let Loose,Strategy,3.54,90,2019,77.0,4,4,None,3,True,True,False,
+Ken Follett's The Pillars of the Earth,Adventure,3.54,138,2017,79.0,3,2,None,6,True,True,True,
+Chroma Squad,Strategy,3.54,95,2015,75.0,4,3,Singleplayer,8,True,True,True,Teen
+Twelve Minutes,Indie,3.54,577,2021,69.0,5,3,Singleplayer,6,True,True,True,
+Layers of Fear,Indie,3.54,1120,2016,72.0,3,2,Singleplayer,6,True,True,True,Mature
+Ghostwire: Tokyo,Action,3.54,310,2022,78.0,7,1,Singleplayer,3,True,True,False,Rating Pending
+Dead Island Definitive Edition,Action,3.53,304,2016,67.0,7,1,Both,4,True,True,False,Mature
+"Invisible, Inc.",Strategy,3.53,346,2015,82.0,3,2,Singleplayer,6,True,True,True,
+Killing Floor 2,Action,3.53,814,2016,75.0,9,1,Both,3,True,True,False,
+The Medium,Adventure,3.53,407,2021,74.0,9,2,Singleplayer,4,True,True,False,Mature
+The Callisto Protocol,Adventure,3.53,251,2022,69.0,7,2,Singleplayer,5,True,True,False,Mature
+Call of Cthulhu,Adventure,3.52,374,2018,66.0,5,3,Singleplayer,4,True,True,False,Mature
+Galactic Civilizations III,Strategy,3.52,66,2015,81.0,5,3,Both,1,True,False,False,
+State of Decay YOSE - Day One Edition,Shooter,3.52,224,2015,78.0,4,4,Both,2,True,True,False,Mature
+Yu-Gi-Oh! Master Duel,Card,3.52,77,2022,,4,3,Both,5,True,True,True,Teen
+Destiny 2,Shooter,3.52,2666,2017,82.0,6,2,Both,6,True,True,False,Teen
+My Time At Portia,Casual,3.52,283,2019,73.0,5,3,Singleplayer,5,True,True,True,Everyone 10+
+Shadow Warrior 2,Shooter,3.52,607,2016,78.0,5,3,Both,3,True,True,False,Mature
+For The King,Indie,3.52,241,2018,78.0,5,4,Both,5,True,True,False,Teen
+Dragon Ball Xenoverse,Arcade,3.52,199,2015,68.0,8,3,Both,5,True,True,False,Teen
+Party Hard,Action,3.51,277,2015,64.0,4,5,Singleplayer,7,True,True,True,Mature
+Code Vein,Action,3.51,362,2019,72.0,7,2,Both,3,True,True,False,
+Battlefield V,Massively Multiplayer,3.51,1009,2018,77.0,5,4,Both,3,True,True,False,Mature
+Death's Gambit,Indie,3.51,95,2018,72.0,4,2,Singleplayer,3,True,True,False,Teen
+ELEX,Adventure,3.51,308,2017,59.0,4,3,Singleplayer,3,True,True,False,Mature
+Dead by Daylight,Action,3.5,990,2016,72.0,10,1,Multiplayer,5,True,True,False,Mature
+Mirror's Edge Catalyst,Platformer,3.5,856,2016,72.0,3,3,Both,3,True,True,False,Teen
+Poly Bridge,Indie,3.49,197,2016,73.0,3,3,Singleplayer,6,True,True,True,Everyone
+Yooka-Laylee and the Impossible Lair,Indie,3.49,84,2019,82.0,3,3,Singleplayer,4,True,True,False,Everyone
+Verdun,Strategy,3.49,126,2015,70.0,4,4,Both,5,True,True,False,
+Street Fighter V,Action,3.49,509,2016,74.0,6,2,Both,2,True,True,False,Teen
+Vampyr,Adventure,3.49,882,2018,70.0,6,3,Singleplayer,4,True,True,False,Mature
+PGA TOUR 2K21,Simulation,3.48,45,2020,75.0,3,2,Both,4,True,True,False,Everyone
+Steep,Action,3.48,879,2016,72.0,5,3,Both,3,True,True,False,Teen
+Trackmania Turbo,Racing,3.48,619,2016,79.0,5,2,Both,3,True,True,False,Everyone
+Iris and the Giant,Card,3.48,33,2018,,6,4,Singleplayer,3,True,False,True,Everyone 10+
+The Elder Scrolls Online: Tamriel Unlimited,Massively Multiplayer,3.48,767,2015,77.0,16,3,Both,4,True,True,False,Mature
+"Cook, Serve, Delicious! 2!!",Strategy,3.48,105,2017,74.0,3,4,Singleplayer,6,True,True,False,
+Sable,Indie,3.48,158,2021,74.0,4,3,Singleplayer,6,True,True,False,Rating Pending
+Dead Island: Riptide Definitive Edition,Action,3.48,129,2016,,5,2,Both,4,True,True,False,Mature
+XCOM: Chimera Squad,Strategy,3.48,115,2020,77.0,4,1,Singleplayer,1,True,False,False,Mature
+The Beast Inside,Indie,3.47,112,2019,74.0,3,3,Singleplayer,1,True,False,False,
+The Coma 2: Vicious Sisters,Indie,3.47,45,2020,,5,3,Singleplayer,6,True,True,False,Teen
+Evoland Legendary Edition,Adventure,3.47,178,2019,66.0,2,6,Singleplayer,4,True,True,False,Everyone 10+
+Surviving Mars,Strategy,3.47,470,2018,75.0,4,2,Singleplayer,5,True,True,False,Everyone 10+
+Warhammer: End Times - Vermintide,Indie,3.47,442,2015,79.0,5,2,Both,3,True,True,False,
+Red Faction Guerrilla Re-Mars-tered,Shooter,3.47,289,2018,70.0,4,3,Both,4,True,True,False,Mature
+Age of Wonders: Planetfall,Strategy,3.47,106,2019,81.0,3,1,Both,3,True,True,False,Teen
+Cultist Simulator,Card,3.46,177,2018,68.0,3,4,Singleplayer,6,True,True,True,Teen
+"Warhammer 40,000: Mechanicus",Strategy,3.46,99,2018,74.0,3,1,Singleplayer,4,True,True,False,Teen
+Trüberbrook – A Nerd Saves the World,Indie,3.46,56,2019,,4,3,Singleplayer,8,True,True,True,Teen
+Alienation,Shooter,3.46,283,2016,79.0,0,2,None,1,False,True,False,Mature
+Deadlight: Director's Cut,Platformer,3.46,232,2016,,2,4,Singleplayer,3,True,True,False,
+theHunter: Call of the Wild,Shooter,3.45,227,2017,74.0,4,4,Both,3,True,True,False,Teen
+Pinball FX3,Arcade,3.44,110,2017,84.0,1,2,Both,4,True,True,False,Everyone 10+
+Shenmue I & II,Adventure,3.44,110,2018,74.0,4,4,Singleplayer,3,True,True,False,Teen
+STASIS,Adventure,3.43,74,2015,79.0,4,1,Singleplayer,2,True,False,False,Mature
+Horizon Chase Turbo,Racing,3.43,404,2018,78.0,3,5,Both,6,True,True,False,
+Sundered,Indie,3.43,140,2017,76.0,3,3,Singleplayer,5,True,True,False,Teen
+State of Mind,Indie,3.43,75,2018,68.0,4,4,Singleplayer,7,True,True,True,Teen
+Darksiders III,Adventure,3.43,566,2018,65.0,5,3,Singleplayer,4,True,True,False,Mature
+Neon Abyss,Platformer,3.43,141,2020,78.0,4,4,Singleplayer,4,True,True,False,
+The Escapists,Adventure,3.43,303,2015,71.0,4,7,Both,9,True,True,True,
+Fallout Shelter,RPG,3.42,1537,2015,63.0,3,2,Both,6,True,True,True,Teen
+Maneater,Indie,3.42,259,2020,68.0,4,4,Singleplayer,6,True,True,False,Mature
+Scorn,Indie,3.42,227,2022,67.0,3,3,Singleplayer,2,True,True,False,
+Hot Wheels Unleashed,Racing,3.42,108,2021,74.0,2,1,Both,6,True,True,False,
+Hotline Miami 2: Wrong Number Digital Comic,Indie,3.42,107,2015,,1,4,Singleplayer,3,True,False,False,
+Descenders,Racing,3.42,129,2019,76.0,2,3,Singleplayer,5,True,True,True,Everyone
+Dagon: by H. P. Lovecraft,Indie,3.42,64,2021,,1,2,Singleplayer,1,True,False,False,
+World War Z (2019),Shooter,3.42,361,2019,70.0,5,2,Multiplayer,4,True,True,False,Mature
+Minecraft: Story Mode,Adventure,3.41,328,2015,,7,2,Singleplayer,10,True,True,True,Everyone 10+
+911 Operator,Educational,3.41,157,2017,68.0,3,5,Singleplayer,7,True,True,True,
+Moon Hunters,Indie,3.41,152,2016,62.0,3,4,Both,6,True,True,False,Everyone 10+
+Dex,Indie,3.41,123,2015,62.0,4,4,Singleplayer,7,True,True,False,Mature
+Hard West,Indie,3.4,176,2015,73.0,5,4,Singleplayer,5,True,True,True,Teen
+Kingdoms of Amalur: Re-Reckoning,Adventure,3.4,104,2020,72.0,4,3,Singleplayer,4,True,True,False,Mature
+12 is Better Than 6,Indie,3.4,162,2015,66.0,5,2,Singleplayer,4,True,True,False,Mature
+Splitgate,Shooter,3.4,232,2019,,2,2,Multiplayer,5,True,True,False,
+Amnesia: Rebirth,Indie,3.4,181,2020,78.0,5,3,Singleplayer,4,True,True,False,Mature
+Just Cause 3,Shooter,3.4,1582,2015,74.0,7,2,Both,3,True,True,False,Mature
+FIFA 22,Sports,3.39,234,2021,76.0,21,1,Both,6,True,True,False,Everyone
+Manual Samuel,Indie,3.39,177,2016,,4,2,Singleplayer,6,True,True,False,Teen
+Project Winter,Adventure,3.39,73,2019,75.0,4,5,None,3,True,True,False,
+Kingdom: Classic,Strategy,3.39,578,2015,74.0,4,3,Singleplayer,3,True,False,False,
+King's Quest,Adventure,3.39,228,2015,,2,2,Singleplayer,5,True,True,False,Everyone 10+
+Devolverland Expo,Indie,3.38,116,2020,,1,4,Both,1,True,False,False,
+Outriders,Shooter,3.38,326,2021,73.0,18,4,Both,5,True,True,False,Mature
+Need for Speed,Racing,3.38,822,2015,66.0,4,2,Both,3,True,True,False,Teen
+FIFA 18,Sports,3.37,700,2017,79.0,0,1,Multiplayer,5,True,True,False,Everyone
+Victor Vran,Indie,3.37,240,2015,75.0,4,4,Both,6,True,True,False,Teen
+Rust,Shooter,3.37,861,2018,66.0,15,5,Multiplayer,5,True,True,False,Mature
+Far Cry New Dawn,Arcade,3.36,627,2019,73.0,12,4,Singleplayer,3,True,True,False,Mature
+Far Cry 6,Shooter,3.36,478,2021,75.0,8,3,Both,5,True,True,False,
+Hue,Indie,3.36,336,2016,79.0,2,4,Singleplayer,8,True,True,True,Everyone
+Despotism 3k,Strategy,3.36,89,2018,,1,3,Singleplayer,4,True,True,True,Mature
+Offworld Trading Company,Strategy,3.36,122,2016,78.0,4,3,Both,2,True,False,False,
+Alien Swarm: Reactive Drop,Action,3.35,271,2017,,2,1,Both,1,True,False,False,
+Last Day of June,Indie,3.35,169,2017,79.0,4,2,Singleplayer,3,True,True,False,Everyone
+Everybody's Gone to the Rapture,Casual,3.35,512,2015,76.0,2,3,Singleplayer,2,True,True,False,Mature
+EVERSPACE,Indie,3.35,221,2017,80.0,2,3,Singleplayer,5,True,True,False,Teen
+Styx: Shards of Darkness,Adventure,3.35,199,2017,72.0,3,2,Both,3,True,True,False,Mature
+The Walking Dead: Michonne,Adventure,3.34,453,2016,66.0,5,2,Singleplayer,8,True,True,True,Mature
+GreedFall,Adventure,3.34,404,2019,74.0,4,3,Singleplayer,3,True,True,False,Mature
+Titan Souls,Indie,3.34,528,2015,74.0,1,2,Singleplayer,4,True,True,False,
+Sven Co-op,Casual,3.33,199,2016,,2,3,Multiplayer,1,True,False,False,Mature
+Goose Goose Duck,Casual,3.33,64,2021,,2,4,Multiplayer,3,True,False,True,Teen
+Zombie Army Trilogy,Shooter,3.33,206,2015,72.0,4,2,Both,4,True,True,False,Mature
+Iron Harvest,Strategy,3.33,115,2020,75.0,2,2,Both,5,True,True,False,
+The Ascent,Indie,3.33,320,2021,73.0,4,4,Both,5,True,True,False,Mature
+Narita Boy,Indie,3.33,77,2021,75.0,1,4,Singleplayer,6,True,True,False,
+F1 2018,Racing,3.33,201,2018,84.0,3,4,Both,3,True,True,False,
+Kona,Indie,3.33,131,2017,73.0,2,3,Singleplayer,6,True,True,False,Teen
+EA SPORTS FIFA 16,Sports,3.32,452,2015,79.0,0,1,Multiplayer,5,True,True,False,Everyone
+Outward Definitive Edition,Adventure,3.32,169,2019,65.0,4,2,Singleplayer,6,True,True,False,Mature
+Dear Esther: Landmark Edition,Casual,3.31,436,2017,,1,3,Singleplayer,4,True,True,False,
+FIFA 17,Sports,3.31,588,2016,85.0,0,1,Both,5,True,True,False,Everyone
+The Suicide of Rachel Foster,Casual,3.31,129,2020,63.0,3,4,Singleplayer,4,True,True,False,Mature
+Indivisible,Indie,3.31,133,2019,79.0,3,3,Singleplayer,6,True,True,False,Teen
+FIFA 19,Simulation,3.31,650,2018,80.0,0,2,Both,6,True,True,False,Everyone
+For Honor,Massively Multiplayer,3.3,1679,2017,76.0,8,2,Both,3,True,True,False,Mature
+OlliOlli2: Welcome to Olliwood,Platformer,3.3,272,2015,82.0,1,4,Both,5,True,True,False,Teen
+Dandara,Indie,3.3,118,2018,75.0,1,4,Singleplayer,8,True,True,True,Teen
+Planetary Annihilation: TITANS,Strategy,3.3,96,2015,,2,1,Both,3,True,False,False,
+STAR WARS Battlefront,Strategy,3.29,1145,2015,73.0,3,4,Both,3,True,True,False,Teen
+Call of Duty: Black Ops 4,Shooter,3.29,568,2018,84.0,0,2,Multiplayer,3,True,True,False,Mature
+State of Decay 2,Shooter,3.29,514,2018,68.0,8,4,Both,2,True,True,False,Mature
+Silence,Indie,3.29,79,2016,75.0,4,3,Singleplayer,5,True,True,False,Teen
+Fortnite Battle Royale,Shooter,3.28,1131,2017,,0,2,Multiplayer,8,True,True,True,Teen
+Hotshot Racing,Racing,3.28,95,2020,75.0,1,2,Both,4,True,True,False,Mature
+Dungeons 3,Strategy,3.28,116,2017,74.0,4,3,Both,6,True,True,True,Teen
+Orwell: Keeping an Eye On You,Indie,3.28,558,2016,77.0,3,4,Singleplayer,5,True,False,True,Teen
+PlayerUnknown’s Battlegrounds,Shooter,3.27,1995,2017,81.0,29,3,Multiplayer,3,True,True,False,
+Blackwake,Casual,3.27,98,2017,,2,4,Multiplayer,2,True,False,False,Mature
+Ancestors,Strategy,3.27,66,2018,,4,1,Both,4,True,True,False,Mature
+Strange Brigade,Adventure,3.27,161,2018,72.0,4,3,Singleplayer,3,True,True,False,Teen
+Call of Duty: Black Ops III,Shooter,3.27,1502,2015,73.0,16,2,Both,5,True,True,False,Mature
+Phantom Doctrine,Strategy,3.27,104,2018,71.0,4,3,Singleplayer,4,True,True,False,Mature
+11-11 Memories Retold,Casual,3.26,99,2018,76.0,4,2,Singleplayer,3,True,True,False,Teen
+Quake Champions,Shooter,3.26,1017,2017,,2,2,Multiplayer,1,True,False,False,Mature
+Need for Speed Heat,Racing,3.26,558,2019,73.0,3,2,Both,3,True,True,False,Teen
+Tooth and Tail,Casual,3.26,110,2017,,2,4,Both,4,True,True,False,Everyone 10+
+Seven: The Days Long Gone,Indie,3.26,85,2017,68.0,4,4,Singleplayer,1,True,False,False,
+ReCore: Definitive Edition,Platformer,3.26,122,2017,,4,3,None,2,True,True,False,Teen
+DiRT 5,Racing,3.25,242,2020,79.0,2,2,Both,5,True,True,False,
+Starfield,Adventure,3.25,341,2023,88.0,29,2,Both,2,True,True,False,Mature
+Serious Sam 4,Shooter,3.25,213,2020,63.0,5,3,Both,5,True,True,False,
+Virginia,Casual,3.24,259,2016,74.0,3,4,Singleplayer,4,True,True,False,Mature
+Not A Hero,Indie,3.24,242,2015,75.0,3,4,Both,6,True,True,True,
+Rage 2,Racing,3.24,713,2019,71.0,11,3,Both,3,True,True,False,Mature
+eFootball PES 2020,Sports,3.24,205,2019,82.0,3,1,Both,4,True,True,True,Everyone 10+
+Grey Goo,Strategy,3.24,85,2015,77.0,5,1,Both,1,True,False,False,
+Snake Pass,Adventure,3.23,250,2017,71.0,3,5,Singleplayer,4,True,True,False,Everyone
+Lost Castle,Indie,3.23,99,2016,,4,4,Both,4,True,True,False,Teen
+FIFA 21,Sports,3.23,269,2020,67.0,14,1,Both,6,True,True,False,Everyone
+Back 4 Blood,Shooter,3.23,330,2021,76.0,6,2,Both,5,True,True,False,Mature
+Battlerite,Action,3.22,570,2016,,3,1,Both,1,True,False,False,
+Stories: The Path of Destinies,Platformer,3.22,506,2016,74.0,4,4,Singleplayer,3,True,True,False,Teen
+Figment,Indie,3.22,127,2017,,3,4,Singleplayer,6,True,True,True,Teen
+Dead Rising 4,Action,3.22,201,2016,74.0,5,1,Both,2,True,True,False,Mature
+SCP: Secret Laboratory,Action,3.22,275,2017,,1,1,Multiplayer,1,True,False,False,
+Lovecraft's Untold Stories,Indie,3.21,37,2018,,3,4,Singleplayer,4,True,True,True,
+FINAL FANTASY TYPE-0 HD,Action,3.21,191,2015,69.0,4,2,Singleplayer,3,True,True,False,Mature
+Mass Effect: Andromeda,Action,3.21,1166,2017,73.0,23,2,None,3,True,True,False,Mature
+Spooky's Jump Scare Mansion,Indie,3.21,150,2015,,1,3,Both,1,True,False,False,
+Hard Reset Redux,Adventure,3.21,134,2016,73.0,4,2,Singleplayer,3,True,True,False,
+Battlefield Hardline,Shooter,3.2,690,2015,72.0,3,2,Both,5,True,True,False,Mature
+Mortal Shell,Action,3.2,235,2020,75.0,3,2,Singleplayer,4,True,True,False,Mature
+Drawful 2,Casual,3.2,316,2016,74.0,1,3,Multiplayer,5,True,True,False,Teen
+Card Hunter,Strategy,3.2,121,2015,80.0,1,2,Both,2,True,False,False,
+Serial Cleaner,Indie,3.2,170,2016,72.0,3,3,Singleplayer,7,True,True,True,Mature
+Need for Speed Payback,Racing,3.2,742,2017,61.0,4,2,Both,3,True,True,False,Teen
+Iratus: Lord of the Dead,Strategy,3.2,100,2018,78.0,3,3,Singleplayer,3,True,False,False,
+The Elder Scrolls: Legends,Card,3.2,283,2017,82.0,2,2,Both,5,True,True,True,Teen
+Apotheon,Indie,3.19,329,2015,78.0,4,4,Both,4,True,True,False,Teen
+Yu-Gi-Oh! Duel Links,Card,3.19,181,2017,80.0,2,3,Both,3,True,False,True,
+Transmissions: Element 120,Indie,3.19,114,2016,,1,2,Both,3,True,False,False,
+The Surge,Action,3.19,598,2017,72.0,4,2,Both,3,True,True,False,Mature
+Hacknet,Indie,3.19,491,2015,82.0,3,2,Both,3,True,False,False,Mature
+2064: Read Only Memories,Adventure,3.19,141,2015,,4,2,Singleplayer,7,True,True,True,Mature
+Blair Witch,Indie,3.18,344,2019,65.0,5,3,Singleplayer,4,True,True,False,
+Tell Me Why,Adventure,3.18,297,2020,76.0,2,1,Singleplayer,2,True,True,False,Mature
+Lost Ark,Massively Multiplayer,3.18,285,2022,81.0,10,2,Both,1,True,False,False,Mature
+Erica,Casual,3.18,288,2019,74.0,2,3,Singleplayer,4,True,True,True,
+Crazy Machines 3,Strategy,3.17,70,2016,71.0,3,2,Singleplayer,1,True,False,False,
+Obduction,Indie,3.17,166,2016,76.0,2,3,Singleplayer,4,True,True,False,
+FIFA 20,Sports,3.17,476,2019,68.0,0,1,None,4,True,True,False,Everyone
+The Deadly Tower of Monsters,Indie,3.17,203,2016,73.0,3,3,Singleplayer,2,True,True,False,Teen
+Rogue Company,Shooter,3.17,158,2020,75.0,2,5,Multiplayer,4,True,True,False,Teen
+Saints Row: Gat Out of Hell,Adventure,3.17,693,2015,66.0,5,2,Both,6,True,True,False,Mature
+The Crew 2,Racing,3.17,333,2018,66.0,5,3,Both,3,True,True,False,Teen
+Mafia III: Definitive Edition,Adventure,3.16,397,2020,,1,2,None,3,True,True,False,Mature
+Shadows: Awakening,Action,3.16,75,2018,73.0,3,2,Singleplayer,3,True,True,False,Teen
+TRANSFORMERS: Devastation,Adventure,3.16,222,2015,75.0,4,2,Singleplayer,5,True,True,False,Teen
+World of Warships,Action,3.16,175,2015,81.0,2,1,None,1,True,False,False,Teen
+Star Wars: Squadrons,Action,3.16,274,2020,79.0,3,2,Both,3,True,True,False,Teen
+LEGO Worlds,Adventure,3.15,220,2017,66.0,3,1,Both,4,True,True,False,Everyone 10+
+We Happy Few,Indie,3.15,363,2018,64.0,4,3,Singleplayer,3,True,True,False,Mature
+AER - Memories of Old,Indie,3.15,176,2017,71.0,3,3,Singleplayer,5,True,True,False,Everyone 10+
+MultiVersus,Action,3.15,185,2022,,2,2,Both,5,True,True,False,
+Sheltered,Strategy,3.15,116,2015,66.0,3,3,Singleplayer,8,True,True,True,
+VRChat,Adventure,3.14,531,2017,,2,5,Both,1,True,False,False,Teen
+Mafia III,Adventure,3.14,1372,2016,62.0,9,2,Both,4,True,True,False,Mature
+PAC-MAN CHAMPIONSHIP EDITION 2,Casual,3.13,200,2016,77.0,1,2,Singleplayer,4,True,True,False,
+Friday the 13th: The Game,Adventure,3.13,328,2017,61.0,6,2,Both,4,True,True,False,Mature
+MASSIVE CHALICE,Strategy,3.12,131,2015,73.0,3,3,Singleplayer,4,True,True,False,Teen
+Watch Dogs: Legion,Shooter,3.12,412,2020,72.0,2,3,Both,5,True,True,False,Mature
+Overwatch 2,Shooter,3.12,377,2022,78.0,4,3,Multiplayer,6,True,True,False,Teen
+Assassin’s Creed Chronicles: China,Adventure,3.11,286,2015,68.0,4,2,Singleplayer,4,True,True,False,Teen
+Bomber Crew,Strategy,3.11,141,2017,75.0,3,2,Singleplayer,6,True,True,False,Everyone 10+
+Friday the 13th: Killer Puzzle,Casual,3.11,117,2018,78.0,1,4,Both,7,True,True,True,
+Overgrowth,Indie,3.1,103,2017,,3,2,Both,3,True,False,False,
+X-Morph: Defense,Indie,3.1,47,2017,,3,4,Singleplayer,4,True,True,False,
+West of Dead,Indie,3.09,64,2020,68.0,1,4,Singleplayer,4,True,True,False,
+New World,Massively Multiplayer,3.09,149,2021,70.0,25,4,Multiplayer,1,True,False,False,Teen
+Paladins,Shooter,3.08,1418,2016,78.0,6,2,Multiplayer,5,True,True,False,Teen
+Farming Simulator 19,Family,3.08,199,2018,,11,2,Both,4,True,True,False,Everyone 10+
+GOD EATER RESURRECTION,Action,3.07,136,2016,70.0,4,1,None,3,True,True,False,Everyone 10+
+Prey: Typhon Hunter,Action,3.07,123,2018,,1,1,Both,3,True,True,False,Teen
+ARK: Survival Evolved,Adventure,3.07,668,2015,70.0,6,5,Both,7,True,True,True,
+DISTRAINT,Casual,3.06,246,2015,76.0,3,3,Singleplayer,1,True,False,False,
+Greak: Memories of Azur,Indie,3.06,34,2021,,4,4,Singleplayer,5,True,True,False,
+Jotun: Valhalla Edition,Indie,3.06,509,2015,79.0,3,2,Singleplayer,6,True,True,False,Teen
+I am Bread,Indie,3.06,196,2015,60.0,2,4,Singleplayer,6,True,True,True,Everyone 10+
+American Fugitive,Indie,3.06,78,2019,66.0,4,3,Singleplayer,4,True,True,False,Mature
+NBA 2K20,Action,3.06,232,2019,76.0,12,3,Both,6,True,True,True,Everyone
+GOD EATER 2: Rage Burst,Action,3.06,109,2015,71.0,3,2,Both,3,True,True,False,Teen
+SMITE,Action,3.05,803,2015,83.0,3,1,Multiplayer,5,True,True,False,
+ANCESTORS: The Humankind Odyssey,Indie,3.05,134,2019,69.0,2,4,Singleplayer,3,True,True,False,Teen
+Serious Sam Fusion 2017 (beta),Indie,3.05,328,2017,,1,2,Both,3,True,False,False,
+Onrush,Racing,3.05,457,2018,,0,3,Multiplayer,2,False,True,False,Teen
+Yooka-Laylee,Indie,3.05,252,2017,73.0,4,4,Both,6,True,True,False,Everyone 10+
+Warhammer: Chaosbane,Adventure,3.05,90,2019,70.0,6,3,Both,5,True,True,False,Mature
+Jalopy,Indie,3.05,86,2016,,3,3,Singleplayer,2,True,True,False,
+NARUTO TO BORUTO: SHINOBI STRIKER,Action,3.04,108,2018,62.0,4,1,Both,3,True,True,False,Teen
+Aim Lab,Indie,3.04,251,2018,,1,2,Singleplayer,1,True,False,False,
+"Warhammer 40,000: Dawn of War III",Strategy,3.03,158,2017,77.0,5,3,Both,3,True,False,False,Mature
+Just Cause 4,Adventure,3.03,518,2018,68.0,5,2,Singleplayer,3,True,True,False,Mature
+Dota Underlords,Casual,3.02,773,2020,,4,3,Both,5,True,False,True,
+Rec Room,Adventure,3.02,110,2016,,2,7,Multiplayer,5,True,True,True,Everyone 10+
+Homefront: The Revolution,Shooter,3.02,349,2016,54.0,9,3,Both,3,True,True,False,Mature
+LET IT DIE,Massively Multiplayer,3.01,328,2016,72.0,2,3,Both,2,True,True,False,Mature
+The Lab,,3.01,181,2016,,1,0,Singleplayer,1,True,False,False,
+Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,Shooter,3.01,93,2021,,1,4,Both,3,True,True,False,
+Stranded Deep,Indie,3.01,181,2015,65.0,3,3,Singleplayer,6,True,True,False,Teen
+Super Animal Royale,Adventure,3.01,100,2021,,1,5,Multiplayer,7,True,True,False,
+RISK: Global Domination,Casual,3.0,87,2015,,2,3,Both,4,True,False,True,
+Orcs Must Die! Unchained,Strategy,3.0,203,2016,87.0,1,2,Both,2,True,True,False,Teen
+BUTCHER,Platformer,3.0,52,2016,70.0,2,3,Singleplayer,6,True,True,False,
+Albion Online,Massively Multiplayer,2.99,218,2017,72.0,2,3,Multiplayer,4,True,False,True,Teen
+Fortnite: Save The World,Shooter,2.99,803,2017,,0,3,Multiplayer,5,True,True,True,Teen
+Vampire: The Masquerade - Bloodhunt,Action,2.99,122,2021,,2,1,Multiplayer,2,True,True,False,
+GRIP: Combat Racing,Racing,2.99,148,2018,68.0,2,3,Both,4,True,True,False,Everyone 10+
+Portal Knights,Adventure,2.98,355,2016,72.0,4,3,Both,6,True,True,True,Everyone 10+
+NBA 2K16,Sports,2.97,315,2015,86.0,11,1,Both,5,True,True,False,Everyone 10+
+Faeria,Card,2.96,213,2017,80.0,2,4,Both,7,True,True,True,Everyone
+Syberia 3,Adventure,2.96,160,2017,50.0,6,2,Singleplayer,5,True,True,False,Teen
+Rebel Galaxy,Adventure,2.96,224,2015,72.0,2,6,Singleplayer,4,True,True,False,Teen
+Ring of Elysium,Shooter,2.94,383,2018,,2,3,None,1,True,False,False,Teen
+Deceit,Action,2.94,413,2017,,2,1,Multiplayer,1,True,False,False,
+Relic Hunters Zero,Indie,2.94,152,2015,,2,2,Both,3,True,True,False,
+WARSAW,Strategy,2.94,32,2019,,4,3,Singleplayer,2,True,True,False,
+The LEGO NINJAGO Movie Video Game,Adventure,2.92,279,2017,70.0,1,2,Singleplayer,4,True,True,False,Everyone 10+
+Tom Clancy's Ghost Recon Breakpoint,Shooter,2.92,218,2019,59.0,9,3,Both,3,True,True,False,
+Tree of Savior (English Ver.),Massively Multiplayer,2.91,136,2016,,3,2,Multiplayer,2,True,False,True,
+Spellbreak,Adventure,2.91,161,2020,75.0,1,3,Multiplayer,4,True,True,False,Teen
+Absolver,Indie,2.91,403,2017,69.0,3,4,Both,3,True,True,False,Teen
+Neon Chrome,Shooter,2.91,149,2016,74.0,3,5,Singleplayer,9,True,True,True,
+Battlefield 2042,Casual,2.9,316,2021,,8,4,Multiplayer,5,True,True,False,Mature
+GoNNER,Shooter,2.9,88,2016,81.0,3,5,Singleplayer,6,True,True,True,Everyone 10+
+Absolute Drift,Racing,2.9,115,2015,66.0,2,4,Singleplayer,5,True,False,True,Everyone
+Kathy Rain,Indie,2.89,150,2016,77.0,3,3,Singleplayer,4,True,False,True,
+The Flame in the Flood,Indie,2.89,398,2016,73.0,2,3,Both,5,True,True,False,Teen
+Darwin Project - Open Beta,Adventure,2.89,200,2018,,1,5,Multiplayer,1,True,False,False,
+Dauntless,Casual,2.88,404,2019,78.0,1,4,Both,5,True,True,True,Teen
+Magic Duels,Card,2.86,234,2015,,2,2,Both,3,True,True,True,
+Uncanny Valley,Indie,2.86,140,2015,67.0,3,3,Singleplayer,5,True,True,False,
+TERA,Massively Multiplayer,2.86,499,2017,77.0,3,3,Both,3,True,True,False,Mature
+Hello Neighbor,Adventure,2.85,160,2017,40.0,4,5,Both,6,True,True,True,Everyone 10+
+Fallout 76,Adventure,2.85,660,2018,51.0,7,3,Multiplayer,3,True,True,False,Mature
+Conan Exiles,Massively Multiplayer,2.84,457,2017,67.0,10,3,Both,3,True,True,False,Adults Only
+The Cycle: Frontier,Action,2.84,85,2018,,2,1,None,1,True,False,False,
+Dungeons 2,Strategy,2.84,269,2015,70.0,4,3,Both,5,True,True,True,Teen
+ZOMBI,Adventure,2.84,356,2015,65.0,4,2,Both,3,True,True,False,Mature
+Badass Hero,Indie,2.83,18,2017,,3,4,Singleplayer,1,True,False,False,
+Sonic Forces,Platformer,2.82,326,2017,58.0,5,3,Singleplayer,6,True,True,True,Everyone 10+
+Totally Accurate Battlegrounds,Shooter,2.82,435,2018,,1,3,Multiplayer,1,True,False,False,
+Driftland: The Magic Revival,Strategy,2.81,31,2017,,2,3,Singleplayer,1,True,False,False,
+Crossout,Racing,2.81,493,2017,68.0,3,4,Both,3,True,True,False,Teen
+AdVenture Capitalist,Casual,2.8,469,2015,,5,4,Singleplayer,6,True,True,True,
+Laser League,Indie,2.79,135,2018,,1,2,Both,3,True,True,False,
+Secret World Legends,Massively Multiplayer,2.79,131,2017,76.0,4,4,Both,1,True,False,False,Mature
+Business Tour,Casual,2.79,118,2016,,2,5,Both,3,True,False,True,Everyone 10+
+"Warhammer 40,000: Gladius - Relics of War",Strategy,2.78,96,2018,71.0,4,1,Both,2,True,False,False,
+Heroes & Generals,Indie,2.78,473,2016,,2,4,Both,1,True,False,False,
+Biomutant,Action,2.75,244,2021,69.0,5,2,Singleplayer,6,True,True,False,Teen
+No Time To Explain Remastered,Casual,2.75,132,2015,,3,4,Both,3,True,False,False,
+Tower of Time,Strategy,2.74,76,2017,,3,2,Singleplayer,6,True,True,False,
+Hellpoint,Indie,2.72,54,2020,61.0,3,4,Both,8,True,True,False,
+Shenmue III,Adventure,2.72,64,2019,68.0,1,2,Singleplayer,2,True,True,False,Teen
+Dirty Bomb,Shooter,2.72,378,2015,63.0,2,2,Both,1,True,False,False,
+Battleborn,Shooter,2.71,188,2016,69.0,3,2,Both,3,True,True,False,Teen
+F1 2015,Racing,2.7,276,2015,61.0,5,2,Both,4,True,True,False,
+Generation Zero (2019),Shooter,2.69,134,2019,49.0,4,2,None,3,True,True,False,Teen
+Rustler,Indie,2.69,34,2021,62.0,1,3,Both,6,True,True,False,
+Marvel’s Avengers,Adventure,2.68,438,2020,68.0,12,3,Both,5,True,True,False,Teen
+Anthem,Shooter,2.68,519,2019,59.0,0,4,Both,3,True,True,False,Teen
+Wolfenstein: Youngblood,Shooter,2.68,421,2019,66.0,6,2,Both,4,True,True,False,Mature
+Capcom Arcade Stadium,Arcade,2.68,73,2021,78.0,1,2,Both,4,True,True,False,Teen
+Trove,Casual,2.67,474,2015,65.0,3,4,Multiplayer,4,True,True,False,Everyone 10+
+Daymare: 1998,Indie,2.66,55,2019,61.0,4,3,Singleplayer,3,True,True,False,Adults Only
+Clicker Heroes,Adventure,2.65,591,2015,,9,6,Both,6,True,True,True,
+Satellite Reign,Strategy,2.65,291,2015,75.0,4,3,Both,3,True,False,False,
+Kholat,Indie,2.65,413,2015,64.0,3,3,Both,4,True,True,False,Teen
+TOXIKK,Indie,2.64,108,2016,,1,2,Both,1,True,False,False,
+Ultimate Epic Battle Simulator,Adventure,2.64,167,2017,,1,5,Singleplayer,1,True,False,False,
+Steel Rats,Racing,2.63,97,2018,66.0,2,4,Singleplayer,3,True,True,False,
+GALAK-Z,Indie,2.63,81,2015,78.0,8,4,Singleplayer,4,True,True,False,Everyone 10+
+I’m not a Monster,Strategy,2.62,146,2018,,1,2,Multiplayer,1,True,False,False,
+The Uncertain: Episode 1 - The Last Quiet Day,Indie,2.62,146,2016,,3,2,Singleplayer,2,True,False,False,
+"Warhammer 40,000: Eternal Crusade",Massively Multiplayer,2.62,130,2016,52.0,2,3,Multiplayer,1,True,False,False,
+Realm Royale,Action,2.62,473,2018,,2,1,Both,4,True,True,False,Teen
+Evergarden,Indie,2.62,29,2018,,3,4,Singleplayer,4,True,False,True,Everyone 10+
+Streets of Kamurocho,Action,2.61,69,2020,,1,1,Both,1,True,False,False,
+Table Top Racing: World Tour,Racing,2.6,247,2016,,1,2,Both,5,True,True,True,
+Out There Somewhere,Racing,2.6,145,2016,,3,9,Singleplayer,2,True,False,False,
+ARK: Survival Of The Fittest,Action,2.6,523,2016,,1,5,Both,5,True,False,True,Teen
+Fishing Planet,Massively Multiplayer,2.6,207,2015,,1,3,Both,5,True,True,True,
+Cuisine Royale,Massively Multiplayer,2.6,288,2018,,1,2,Multiplayer,3,True,True,False,
+Black Squad,Massively Multiplayer,2.58,239,2017,,1,2,Both,1,True,False,False,Everyone
+Evolve Stage 2,Action,2.57,453,2015,77.0,3,1,Both,1,True,False,False,Mature
+HIVESWAP: Act 1,Indie,2.56,64,2017,,4,3,Singleplayer,3,True,False,False,
+Worms Rumble,Shooter,2.55,108,2020,67.0,1,6,Multiplayer,4,True,True,False,
+Jump Force,Action,2.54,191,2019,59.0,4,3,Both,4,True,True,False,
+Gothic Playable Teaser,RPG,2.54,244,2019,,1,1,Both,1,True,False,False,
+Vertiginous Golf,Indie,2.53,69,2015,63.0,1,2,Both,3,True,False,False,
+Aegis Defenders,Adventure,2.53,108,2018,76.0,1,5,Both,4,True,True,False,Everyone
+Sakura Clicker,Casual,2.52,128,2015,,1,2,Both,1,True,False,False,
+Argo,Casual,2.52,120,2017,,1,4,Both,1,True,False,False,
+WWE 2K Battlegrounds,Action,2.52,74,2020,58.0,1,3,Both,4,True,True,False,Teen
+10 Second Ninja X,Indie,2.51,166,2016,,1,2,Singleplayer,4,True,True,False,
+Skyforge,Massively Multiplayer,2.51,248,2017,,2,2,Both,4,True,True,False,Teen
+Ticket to Ride: First Journey,Casual,2.49,39,2017,,1,4,Singleplayer,4,True,False,True,
+Else Heart.Break(),Indie,2.48,63,2015,79.0,1,3,Singleplayer,3,True,False,False,
+Idle Champions of the Forgotten Realms,Indie,2.47,146,2017,,3,4,Singleplayer,5,True,True,False,Teen
+CAYNE,Casual,2.46,111,2017,75.0,1,3,Both,3,True,False,False,
+Regions Of Ruin,Adventure,2.46,136,2018,,1,6,Singleplayer,6,True,True,False,
+Delores: A Thimbleweed Park Mini-Adventure,Indie,2.46,47,2020,,1,2,Singleplayer,2,True,False,False,
+Golden Axed: A Cancelled Prototype,Action,2.44,44,2020,,1,1,Both,1,True,False,False,
+Tumblestone,Action,2.44,63,2016,91.0,6,5,Both,8,True,True,True,Everyone
+The Search,Indie,2.43,67,2017,,1,2,Singleplayer,1,True,False,False,
+Ashes of the Singularity: Escalation,Strategy,2.41,68,2016,81.0,3,4,Both,1,True,False,False,
+Battlestar Galactica Deadlock,Strategy,2.41,43,2017,,3,1,Both,4,True,True,False,Everyone 10+
+Guns of Icarus Alliance,Indie,2.41,228,2017,,1,3,Both,3,True,False,False,
+Fractured Space,Strategy,2.4,156,2016,79.0,1,3,Both,1,True,False,False,
+H1Z1: King of the Kill,Massively Multiplayer,2.39,345,2016,,2,3,Multiplayer,1,True,False,False,
+The Deed,Adventure,2.37,69,2015,,4,2,Singleplayer,1,True,False,False,
+Survarium,Massively Multiplayer,2.37,264,2015,,1,3,Multiplayer,1,True,False,False,Mature
+Murderous Pursuits,Action,2.35,201,2018,,3,5,Both,2,True,False,True,Teen
+Divide By Sheep,Educational,2.34,149,2015,83.0,2,5,Singleplayer,3,True,False,True,
+Spacelords,Indie,2.33,174,2017,,1,4,Both,3,True,True,False,Mature
+Warhammer Underworlds: Online,Strategy,2.31,48,2020,,1,1,Both,1,True,False,False,
+Gear Up,Indie,2.31,110,2015,,1,2,Both,3,True,False,False,
+Minion Masters,Strategy,2.3,390,2019,,5,3,Both,2,True,True,False,
+Block N Load,Strategy,2.29,123,2015,72.0,1,3,Both,1,True,False,False,
+Mighty No. 9,Adventure,2.29,189,2016,52.0,3,2,Both,10,True,True,False,Everyone 10+
+Deiland,Indie,2.28,137,2016,,1,3,Singleplayer,5,True,True,True,Everyone 10+
+The Red Solstice,Strategy,2.27,169,2015,74.0,4,4,Both,1,True,False,False,
+Goat of Duty,Action,2.25,119,2019,,1,1,Both,1,True,False,False,
+Odysseus Kosmos - Episode 1,Indie,2.24,66,2018,,1,3,Singleplayer,2,True,False,True,
+Nephise Begins,Casual,2.22,54,2017,,1,3,Singleplayer,1,True,False,False,
+Resident Evil: Resistance,Action,2.19,145,2020,64.0,3,1,Multiplayer,3,True,True,False,Mature
+Scrap Garden,Indie,2.18,45,2016,58.0,3,3,Singleplayer,4,True,True,False,
+Mirage: Arcane Warfare,Indie,2.17,177,2017,74.0,3,2,Multiplayer,1,True,False,False,
+Transpose,Casual,2.17,42,2018,,1,2,Singleplayer,2,True,True,False,Teen
+The Descendant,Casual,2.14,74,2016,59.0,3,3,Singleplayer,2,True,False,False,
+Polyball,Racing,2.14,64,2015,,1,4,Both,3,True,False,False,
+Geneshift,Indie,2.14,196,2017,,3,3,Both,2,True,False,False,
+Heavy Metal Machines,Racing,2.13,84,2017,,1,5,Multiplayer,3,True,True,False,
+Fortified,Strategy,2.11,126,2016,66.0,3,3,Both,2,True,True,False,Teen
+HELLION,Indie,2.11,45,2017,,2,4,Both,1,True,False,False,
+200% Mixed Juice!,Indie,2.1,50,2015,,1,3,Both,1,True,False,False,
+Acceleration of SUGURI 2,Indie,2.08,64,2018,,3,2,Both,1,True,False,False,
+Defy Gravity Extended,Racing,2.04,162,2016,,2,9,Both,1,True,False,False,
+Camera Obscura,Racing,2.03,64,2015,,3,9,Singleplayer,1,True,False,False,
+Kabounce,Indie,2.0,102,2018,,1,3,Both,2,True,True,False,Everyone 10+
+Endless Zone,Action,2.0,44,2020,,1,1,Singleplayer,1,True,False,False,
+RobocraftX,Indie,2.0,52,2019,,1,2,Singleplayer,1,True,False,False,
+Pixel Puzzles Ultimate,Casual,1.99,139,2016,,3,3,Singleplayer,1,True,False,False,
+Will Glow the Wisp,Indie,1.93,41,2017,,1,2,Singleplayer,1,True,False,False,Everyone
+Woodle Tree Adventures,Indie,1.92,124,2016,,3,3,Both,5,True,True,False,
+GameGuru,Educational,1.88,129,2015,,1,1,Both,1,True,False,False,
+Hyperdrive Massacre,Casual,1.88,73,2015,,3,3,Singleplayer,5,True,True,False,
+Project Mercury,Indie,1.85,48,2017,,1,2,Singleplayer,1,True,False,False,
+Interkosmos,Indie,1.83,41,2017,,1,4,Singleplayer,1,True,False,False,
+Headsnatchers,Casual,1.81,128,2018,,2,4,Both,3,True,True,False,Everyone 10+
+Showdown Bandit,Indie,1.8,56,2019,,1,3,Singleplayer,2,True,False,False,
+Endorlight,Casual,1.8,56,2016,,5,3,Singleplayer,1,True,False,False,
+Barro,Casual,1.79,56,2018,,1,4,Both,1,True,False,False,
+Blockstorm,Indie,1.75,74,2015,,4,2,Both,3,True,False,False,
+Particula,Casual,1.73,74,2015,,4,3,Singleplayer,2,True,False,False,
+Streamline,Casual,1.71,82,2015,,4,4,Both,1,True,False,False,
+Armor of Heroes,Action,1.68,44,2020,,1,1,Both,1,True,False,False,
+Between Two Castles - Digital Edition,Strategy,1.64,11,2019,,1,1,Both,1,True,False,False,
+Resident Evil Re:Verse,Shooter,1.5,70,2022,,1,2,Both,5,True,True,False,Adults Only
