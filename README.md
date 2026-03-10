@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a curated dataset of video games released between 2015 and 2025, collected from the [RAWG API](https://rawg.io/apidocs). The dataset includes over 500 games with features such as genre, rating, platforms, player type, and ESRB rating.  
 
-The purpose of this dataset is to demonstrate data acquisition, cleaning, and preparation in Python.
+The purpose of this dataset is to demonstrate data acquisition, cleaning, and preparation in Python. As such, the dataset is a subset of around 1000 of the games released between 2015 and 2025. It is **not comprehensive** and may not include every popular title from this time period.
 
 ## Dataset Features
 | Column | Description |
@@ -39,6 +39,10 @@ Add your RAWG API key in a .env file:
 RAWG_API_KEY=your_api_key_here
 ```
 
-Run the rawg_data_collection.ipynb notebook to reproduce the dataset.
+Run the script to reproduce the dataset:
+
+```bash
+python generate_dataset.py
+```
 
 The final dataset is also included as game_dataset.csv for convenience.
